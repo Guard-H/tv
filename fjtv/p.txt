@@ -208,18 +208,6 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
-国兴卫视,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/64/806/ch15.m3u8
-HBO台湾,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-ANIMAX动漫,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
-TLC旅遊生活,http://211.23.114.106:8503/http/60.251.39.91:8081/hls/70/812/ch38.m3u8
-Discovery,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
-动物星球,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/70/812/ch37.m3u8
-TVBS新闻,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/75/817/ch59.m3u8
-纬来体育,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/67/809/ch28.m3u8
-
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-经典电影,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
-
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 
