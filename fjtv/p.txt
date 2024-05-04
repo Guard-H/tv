@@ -191,8 +191,8 @@ CCTV中学生,http://223.10.37.96:8085/udp/239.1.1.104:8104
 凤凰资讯,http://www.terrykang.cn:5678/fjgd.php?id=fhzx
 凤凰中文,http://www.terrykang.cn:5678/fjgd.php?id=fhzw
 
-凤凰资讯,http://175.43.106.74:4022/udp/239.61.2.183:9086
-凤凰中文,http://175.43.106.74:4022/udp/239.61.2.184:9092
+凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
+凤凰中文,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
 
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.flv
