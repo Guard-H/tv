@@ -29,8 +29,8 @@
 {"key":"五五影视","name":"五五","type":3,"api":"csp_XBPQ","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/五五影视.json"},
 {"key":"新视觉","name":"新视觉","type":3,"api":"csp_XBPQ","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/新视觉.json"},
 
-{"key":"两个磁力","name":"磁力","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/drpy.min.js","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/spider.jar","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/两个磁力.js"},
-{"key":"茶杯狐","name":"茶杯狐","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/drpy.min.js","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/spider.jar","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/茶杯狐.js"},
+{"key":"两个磁力","name":"磁力","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/两个磁力.js"},
+{"key":"茶杯狐","name":"茶杯狐","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/茶杯狐.js"},
 
 {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"奇优","name":"️奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/奇优.json"},
