@@ -98,14 +98,6 @@ CHC家庭影院,http://www.terrykang.cn:5678/fjgd.php?id=chcjt
 CHC动作电影,http://www.terrykang.cn:5678/fjgd.php?id=chcdz
 CHC高清电影,http://www.terrykang.cn:5678/fjgd.php?id=chcgq
 
-CHC家庭影院,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
-CHC动作电影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-CHC高清电影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-
-CHC家庭影院,http://111.20.35.108:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-CHC动作电影,http://111.20.35.108:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-CHC高清电影,http://111.20.35.108:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-
 淘电影,http://114.254.94.104:2222/rtp/239.3.1.250:8001
 淘Baby,http://114.254.94.104:2222/rtp/239.3.1.238:8001
 北京体育,http://114.254.94.104:2222/rtp/239.3.1.243:8000
