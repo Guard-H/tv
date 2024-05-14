@@ -1,7 +1,7 @@
 {"spider":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/f.jar",
 "wallpaper": "https://api.likepoems.com/img/bing",
 "sites":[
-	
+
 {"key":"csp_DouDou","name":"推荐｜热门","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"阿里云盘登录","name":"阿里云｜登录","type":3,"api":"csp_AliYunPan","jar":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/spider.jar","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 {"key":"配置中心","name":"配置｜设置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
@@ -11,7 +11,7 @@
 {"key":"天天开心","name":"阿里云｜开心","type":3,"api":"csp_XYQHikerAL","jar":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/天天开心.json"},
 //{"key":"玩偶哥哥","name":"阿里云｜玩偶","type":3,"api":"csp_XYQHikerAL","jar":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/玩偶哥哥.json"},
 {"key":"玩偶弹幕","name":"阿里云｜玩偶","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://www.wogg.xyz","danmu":true},"jar":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"},
-{"key":"夸克玩偶弹幕","name":"夸克｜玩偶","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;664ae622641247e6fe7bf1b9f2767fdc"},
+{"key":"夸克玩偶弹幕","name":"夸克｜玩偶","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"},
 {"key":"夸克多多弹幕","name":"夸克｜多多","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://tv.yydsys.top","danmu":true},"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;664ae622641247e6fe7bf1b9f2767fdc"},
 {"key":"夸克土豆弹幕","name":"夸克｜土豆","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://tudou.lvdoui.top","danmu":true},"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;664ae622641247e6fe7bf1b9f2767fdc"},
 {"key":"布谷TV","name":"磁力｜布谷","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/布谷TV.json"},
