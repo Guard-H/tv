@@ -44,7 +44,7 @@
 {"key":"低端影视","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"push_agent","name":"云盘｜推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},"jar":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/danmu.jar"},
-{"key":"dr_JRKAN直播","name":"体育｜JRKAN直播","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/JRKAN直播.js"},
+{"key":"JRKAN直播","name":"体育｜JRKAN直播","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/drpy2.min.js","style":{"type":"list"},"ext":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/JRKAN直播.js"},
 {"key":"csp_Kanqiu","name":"体育｜88看球直播","type":3,"api":"csp_Kanqiu","jar":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/f.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"Aid","name":"教育｜急救教学","type":3,"api":"csp_FirstAid","jar":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/f.jar","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 {"key":"兔小贝","name":"教育｜兔小贝","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/drpy2.min.js","ext":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
