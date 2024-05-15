@@ -39,7 +39,7 @@
 {"key":"南瓜弹幕","name":"南瓜","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu": true},"jar":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/danmu.jar"},
 {"key":"厂长资源","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://www.czys.top/"},
 {"key":"低端影视","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"茶杯狐","name":"茶杯狐","type":3,"api":"./file/drpy2.min.js","ext":"./file/茶杯狐.js"},
+{"key":"茶杯狐","name":"茶杯狐","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/茶杯狐.js"},
 
 {"key":"push_agent","name":"云盘｜推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},"jar":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/danmu.jar"},
 {"key":"JRKAN直播","name":"体育｜JRKAN直播","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/drpy2.min.js","style":{"type":"list"},"ext":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tv/main/file/JRKAN直播.js"},
