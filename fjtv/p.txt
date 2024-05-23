@@ -42,8 +42,8 @@ CCTV4K超高清,rtsp://112.111.36.140/PLTV/88888909/224/3221225984/1000010000000
 CCTV4K超高清,https://tv.cry33.com/ys4k.php?id=4k
 CCTV8K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
 CCTV8K超高清,https://tv.cry33.com/ys4k.php?id=8k
-CCTV4中文国际欧洲,http://114.254.83.72:2222/rtp/239.3.1.213:4220
-CCTV4中文国际美洲,http://114.254.83.72:2222/rtp/239.3.1.214:4220
+CCTV4中文国际欧洲,http://happylive.asuscomm.com:8888/rtp/239.3.1.213:4220
+CCTV4中文国际美洲,http://happylive.asuscomm.com:8888/rtp/239.3.1.214:4220
 
 CGTN新闻,rtsp://112.111.36.140/PLTV/88888909/224/3221225734/10000100000000060000000000401649_0.smil
 CGTN纪录,rtsp://112.111.36.140/PLTV/88888909/224/3221225850/10000100000000060000000002734715_0.smil
@@ -98,11 +98,11 @@ CHC家庭影院,http://www.terrykang.cn:5678/fjgd.php?id=chcjt
 CHC动作电影,http://www.terrykang.cn:5678/fjgd.php?id=chcdz
 CHC高清电影,http://www.terrykang.cn:5678/fjgd.php?id=chcgq
 
-淘电影,http://114.254.83.72:2222/rtp/239.3.1.250:8001
-淘Baby,http://114.254.83.72:2222/rtp/239.3.1.238:8001
-北京体育,http://114.254.83.72:2222/rtp/239.3.1.243:8000
-睛彩篮球,http://114.254.83.72:2222/rtp/239.3.1.126:8001
-北京纪实,http://114.254.83.72:2222/rtp/239.3.1.115:8000
+淘电影,http://happylive.asuscomm.com:8888/rtp/239.3.1.250:8001
+淘Baby,http://happylive.asuscomm.com:8888/rtp/239.3.1.238:8001
+北京体育,http://happylive.asuscomm.com:8888/rtp/239.3.1.243:8000
+睛彩篮球,http://happylive.asuscomm.com:8888/rtp/239.3.1.126:8001
+北京纪实,http://happylive.asuscomm.com:8888/rtp/239.3.1.115:8000
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 CCTV兵器科技,http://110.178.52.100:8085/udp/239.1.1.97:8097#http://1.70.34.238:8085/udp/239.1.1.97:8097
