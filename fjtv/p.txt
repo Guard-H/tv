@@ -177,7 +177,6 @@ CCTV中学生,http://110.178.52.100:8085/udp/239.1.1.104:8104
 平潭一台,http://www.terrykang.cn:5678/fjgd.php?id=pttv1
 龙岩一台,http://www.terrykang.cn:5678/fjgd.php?id=ly1
 三明一台,http://www.terrykang.cn:5678/fjgd.php?id=sm1
-龙岩一台,http://stream.lytv.net.cn/2/sd/live.m3u8
 石狮综合,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8
 
 港台,#genre#
