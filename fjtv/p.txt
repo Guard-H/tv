@@ -105,7 +105,7 @@ CHC高清电影,http://www.terrykang.cn:5678/fjgd.php?id=chcgq
 北京纪实,http://happylive.asuscomm.com:8888/rtp/239.3.1.115:8000
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
-CCTV兵器科技,http://110.178.52.100:8085/udp/239.1.1.97:8097#http://1.70.34.238:8085/udp/239.1.1.97:8097
+CCTV兵器科技,http://110.178.52.100:8085/udp/239.1.1.97:8097#http://1.70.34.199:8085/udp/239.1.1.97:8097
 CCTV第一剧场,http://110.178.52.100:8085/udp/239.1.1.94:8094
 CCTV怀旧剧场,http://110.178.52.100:8085/udp/239.1.1.95:8095
 CCTV风云剧场,http://110.178.52.100:8085/udp/239.1.1.93:8093
