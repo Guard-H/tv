@@ -98,11 +98,11 @@ CHC家庭影院,http://www.terrykang.cn:5678/fjgd.php?id=chcjt
 CHC动作电影,http://www.terrykang.cn:5678/fjgd.php?id=chcdz
 CHC影迷电影,http://www.terrykang.cn:5678/fjgd.php?id=chcgq
 
-淘电影,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.250:8001#http://happylive.asuscomm.com:8888/rtp/239.3.1.250:8001#http://ry.soff.cn:4022//rtp/239.3.1.250:8001#https://udpxy.bj-cu.q1angch0u.com:8443/rtp/239.3.1.250:8001
-淘Baby,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.238:8001
-北京体育,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.243:8000
-睛彩篮球,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.126:8001
-北京纪实,http:/adsl03.ccj.gohome.link:55556/rtp/239.3.1.115:8000
+淘电影,http://happylive.asuscomm.com:8888/rtp/239.3.1.250:8001#http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.250:8001#http://ry.soff.cn:4022//rtp/239.3.1.250:8001#https://udpxy.bj-cu.q1angch0u.com:8443/rtp/239.3.1.250:8001
+淘Baby,http://happylive.asuscomm.com:8888/rtp/239.3.1.238:8001
+北京体育,http://happylive.asuscomm.com:8888/rtp/239.3.1.243:8000
+睛彩篮球,http://happylive.asuscomm.com:8888/rtp/239.3.1.126:8001
+北京纪实,http:/happylive.asuscomm.com:8888/rtp/239.3.1.115:8000
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 CCTV兵器科技,http://1.70.34.96:8085/udp/239.1.1.97:8097#http://110.178.52.60:8085/udp/239.1.1.97:8097
@@ -194,8 +194,8 @@ CCTV高尔夫网球,http://www.191919.xyz:8888/udp/238.1.79.58:4600
 凤凰资讯,http://www.terrykang.cn:5678/fjgd.php?id=fhzx
 凤凰中文,http://www.terrykang.cn:5678/fjgd.php?id=fhzw
 
-凤凰香港,http://120.84.121.231:808/hls/81/index.m3u8
-天映经典,http://120.84.121.231:808/hls/85/index.m3u8
+凤凰香港,http://120.84.121.243:808/hls/81/index.m3u8
+天映经典,http://120.84.121.243:808/hls/85/index.m3u8
 
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
