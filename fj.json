@@ -26,7 +26,7 @@
 {"key":"New6v","name":"磁力｜New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
 {"key":"酷吧电影","name":"磁力｜酷吧","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
 
-
+{"key":"快看影视","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"热播影视","name":"热播","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧影视","name":"追剧","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"低端影视","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
