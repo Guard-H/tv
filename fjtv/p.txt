@@ -199,22 +199,6 @@ CCTV高尔夫网球,http://www.191919.xyz:8888/udp/238.1.79.58:4600
 凤凰香港,http://120.84.121.243:808/hls/81/index.m3u8
 天映经典,http://120.84.121.243:808/hls/85/index.m3u8
 
-民视,rtmp://220.130.201.74/sat/tv051
-台视,rtmp://220.130.201.74/sat/tv071
-中视,rtmp://220.130.201.74/sat/tv091
-华视,rtmp://220.130.201.74/sat/tv111
-TVBS欢乐,rtmp://220.130.201.74/sat/tv421
-TVBS新闻,rtmp://220.130.201.74/sat/tv551
-非凡新闻,rtmp://220.130.201.74/sat/tv581
-纬来体育,rtmp://220.130.201.74/sat/tv721
-纬来育乐,rtmp://220.130.201.74/sat/tv701
-纬来日本,rtmp://220.130.201.74/sat/tv771
-东森超视,rtmp://220.130.201.74/sat/tv331
-东森财经,rtmp://220.130.201.74/sat/tv571
-MoMo综合,rtmp://220.130.201.74/sat/tv761
-ELEVEN体育1,rtmp://220.130.201.74/sat/tv731
-ELEVEN体育2,rtmp://220.130.201.74/sat/tv741
-
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
