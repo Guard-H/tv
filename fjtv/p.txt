@@ -105,7 +105,6 @@ CHC影迷电影,http://www.terrykang.cn:5678/fjgd.php?id=chcgq
 睛彩篮球,http://happylive.asuscomm.com:8888/rtp/239.3.1.126:8001
 北京纪实,http:/happylive.asuscomm.com:8888/rtp/239.3.1.115:8000
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-4K超高清电影,http://58.215.231.60/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
 
 CCTV兵器科技,http://1.70.34.241:8085/udp/239.1.1.97:8097#http://110.178.52.60:8085/udp/239.1.1.97:8097
 CCTV第一剧场,http://1.70.34.241:8085/udp/239.1.1.94:8094
