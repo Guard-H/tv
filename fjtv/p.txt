@@ -195,9 +195,6 @@ CCTV高尔夫网球,http://www.191919.xyz:8888/udp/238.1.79.58:4600
 凤凰资讯,http://www.terrykang.cn:5678/fjgd.php?id=fhzx
 凤凰中文,http://www.terrykang.cn:5678/fjgd.php?id=fhzw
 
-凤凰香港,http://120.84.121.243:808/hls/81/index.m3u8
-天映经典,http://120.84.121.243:808/hls/85/index.m3u8
-
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
