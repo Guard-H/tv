@@ -68,11 +68,7 @@
 {"key":"少儿教育","name":"教育｜少儿","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"},
 {"key":"小学课堂","name":"教育｜小学","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"},
 {"key":"初中课堂","name":"教育｜初中","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
-{"key":"高中教育","name":"教育｜高中","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
-//{"key":"少儿","name":"教育｜少儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitdl.cn/https://raw.githubusercontent.com/Guard-H/tv/main/file/少儿教育.json"},
-//{"key":"小学","name":"教育｜小学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitdl.cn/https://raw.githubusercontent.com/Guard-H/tv/main/file/小学课堂.json"},
-//{"key":"初中","name":"教育｜初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitdl.cn/https://raw.githubusercontent.com/Guard-H/tv/main/file/初中课堂.json"},
-//{"key":"高中","name":"教育｜高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitdl.cn/https://raw.githubusercontent.com/Guard-H/tv/main/file/高中课堂.json"}
+{"key":"高中教育","name":"教育｜高中","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"}
 ],
 "parses": [
         {
