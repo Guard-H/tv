@@ -209,6 +209,9 @@ MoMo综合,rtmp://220.130.201.73/sat/tv761
 ELEVEN体育1,rtmp://220.130.201.73/sat/tv731
 ELEVEN体育2,rtmp://220.130.201.73/sat/tv741
 
+台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
+寰宇新闻,https://stream1.freetv.fun/huan-yu-tai-wan-1.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 TVBS欢乐,https://stream1.freetv.fun/tvbshuan-le-3.m3u8
 民视,rtmp://218.32.29.13/sat/tv051
 民视,rtmp://twcdn.top/sat/tv051
