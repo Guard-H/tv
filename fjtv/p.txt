@@ -211,6 +211,11 @@ MoMo综合,rtmp://220.130.201.73/sat/tv761
 ELEVEN体育1,rtmp://220.130.201.73/sat/tv731
 ELEVEN体育2,rtmp://220.130.201.73/sat/tv741
 
+民视,rtmp://218.32.29.13/sat/tv051
+民视,rtmp://twcdn.top/sat/tv051
+TVBS欢乐,https://stream1.freetv.fun/tvbshuan-le-3.m3u8
+东森美洲CN,https://stream1.freetv.fun/dong-sen-mei-zhou-zhong-guo-1.m3u8
+
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
