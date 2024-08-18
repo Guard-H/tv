@@ -195,31 +195,27 @@ CCTV中学生,http://1.70.34.196:8085/udp/239.1.1.104:8104
 凤凰资讯,http://www.terrykang.cn:5678/fjgd.php?id=fhzx
 凤凰中文,http://www.terrykang.cn:5678/fjgd.php?id=fhzw
 
-民视,rtmp://220.130.201.73/sat/tv051
-台视,rtmp://220.130.201.73/sat/tv071
-中视,rtmp://220.130.201.73/sat/tv091
-华视,rtmp://220.130.201.73/sat/tv111
-非凡新闻,rtmp://220.130.201.73/sat/tv581
-纬来体育,rtmp://220.130.201.73/sat/tv721
-纬来育乐,rtmp://220.130.201.73/sat/tv701
-纬来日本,rtmp://220.130.201.73/sat/tv771
-东森超视,rtmp://220.130.201.73/sat/tv331
-东森财经,rtmp://220.130.201.73/sat/tv571
-MoMo综合,rtmp://220.130.201.73/sat/tv761
-ELEVEN体育1,rtmp://220.130.201.73/sat/tv731
-ELEVEN体育2,rtmp://220.130.201.73/sat/tv741
+民视,rtmp://218.32.29.13/sat/tv051
+台视,rtmp://218.32.29.13/sat/tv071
+中视,rtmp://218.32.29.13/sat/tv091
+华视,rtmp://218.32.29.13/sat/tv111
+非凡新闻,rtmp://218.32.29.13/sat/tv581
+纬来体育,rtmp://218.32.29.13/sat/tv721
+纬来育乐,rtmp://218.32.29.13/sat/tv701
+纬来日本,rtmp://218.32.29.13/sat/tv771
+东森超视,rtmp://218.32.29.13/sat/tv331
+东森财经,rtmp://218.32.29.13/sat/tv571
+MoMo综合,rtmp://218.32.29.13/sat/tv761
+ELEVEN体育1,rtmp://218.32.29.13/sat/tv731
+ELEVEN体育2,rtmp://218.32.29.13/sat/tv741
 
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
 寰宇新闻,https://stream1.freetv.fun/huan-yu-tai-wan-1.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 TVBS欢乐,https://stream1.freetv.fun/tvbshuan-le-3.m3u8
-民视,rtmp://218.32.29.13/sat/tv051
+民视,rtmp://220.130.201.73/sat/tv051
 民视,rtmp://twcdn.top/sat/tv051
-东森美洲CN,https://stream1.freetv.fun/dong-sen-mei-zhou-zhong-guo-1.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
