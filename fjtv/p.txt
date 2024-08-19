@@ -195,6 +195,7 @@ CCTV中学生,http://1.70.34.196:8085/udp/239.1.1.104:8104
 港台,#genre#
 凤凰资讯,http://www.terrykang.cn:5678/fjgd.php?id=fhzx
 凤凰中文,http://www.terrykang.cn:5678/fjgd.php?id=fhzw
+凤凰香港,http://110.185.171.226:96/fhzb.php?type=1&id=0701phk72
 
 民视,rtmp://218.32.29.13/sat/tv051
 台视,rtmp://218.32.29.13/sat/tv071
