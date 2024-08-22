@@ -99,6 +99,10 @@ CHC家庭影院,http://www.terrykang.cn:5678/fjgd.php?id=chcjt
 CHC动作电影,http://www.terrykang.cn:5678/fjgd.php?id=chcdz
 CHC影迷电影,http://www.terrykang.cn:5678/fjgd.php?id=chcgq
 
+CHC家庭影院,http://vl15191373.imwork.net:8880/udp/239.93.42.006:5140
+CHC动作电影,http://vl15191373.imwork.net:8880/udp/239.93.42.007:5140
+CHC影迷电影,http://vl15191373.imwork.net:8880/udp/239.93.42.005:5140
+
 淘电影,http://ry.soff.cn:4022//rtp/239.3.1.250:8001#http://happylive.asuscomm.com:8888/rtp/239.3.1.250:8001#http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.250:8001#https://udpxy.bj-cu.q1angch0u.com:8443/rtp/239.3.1.250:8001
 淘Baby,http://ry.soff.cn:4022/rtp/239.3.1.238:8001
 北京体育,http://ry.soff.cn:4022/rtp/239.3.1.243:8000
