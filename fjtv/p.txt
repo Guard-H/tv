@@ -1,23 +1,4 @@
 央视,#genre#
-CCTV1综合,http://www.terrykang.cn:5678/fjgd.php?id=cctv1
-CCTV2财经,http://www.terrykang.cn:5678/fjgd.php?id=cctv2
-CCTV3综艺,http://www.terrykang.cn:5678/fjgd.php?id=cctv3
-CCTV4中文国际,http://www.terrykang.cn:5678/fjgd.php?id=cctv4
-CCTV5体育,http://www.terrykang.cn:5678/fjgd.php?id=cctv5
-CCTV5体育赛事,http://www.terrykang.cn:5678/fjgd.php?id=cctv5p
-CCTV6电影,http://www.terrykang.cn:5678/fjgd.php?id=cctv6
-CCTV7国防军事,http://www.terrykang.cn:5678/fjgd.php?id=cctv7
-CCTV8电视剧,http://www.terrykang.cn:5678/fjgd.php?id=cctv8
-CCTV9纪录,http://www.terrykang.cn:5678/fjgd.php?id=cctv9
-CCTV10科教,http://www.terrykang.cn:5678/fjgd.php?id=cctv10
-CCTV11戏曲,http://www.terrykang.cn:5678/fjgd.php?id=cctv11
-CCTV12社会与法,http://www.terrykang.cn:5678/fjgd.php?id=cctv12
-CCTV13新闻,http://www.terrykang.cn:5678/fjgd.php?id=cctv13
-CCTV14少儿,http://www.terrykang.cn:5678/fjgd.php?id=cctv14
-CCTV15音乐,http://www.terrykang.cn:5678/fjgd.php?id=cctv15
-CCTV16奥林匹克,http://www.terrykang.cn:5678/fjgd.php?id=cctv16
-CCTV17农业农村,http://www.terrykang.cn:5678/fjgd.php?id=cctv17
-
 CCTV1综合,rtsp://112.111.36.140/PLTV/88888909/224/3221225703/10000100000000060000000000391319_0.smil
 CCTV2财经,rtsp://220.200.30.136/PLTV/88888909/224/3221225702/10000100000000060000000000391317_0.smil
 CCTV3综艺,rtsp://112.111.36.140/PLTV/88888909/224/3221225979/10000100000000060000000004051300_0.smil
@@ -95,13 +76,9 @@ CGTN俄语,rtsp://220.200.30.136/PLTV/88888909/224/3221225852/100001000000000600
 山东教育,rtsp://112.111.36.140/PLTV/88888909/224/3221225705/10000100000000060000000000391773_0.smil
 
 数字,#genre#
-CHC家庭影院,http://www.terrykang.cn:5678/fjgd.php?id=chcjt
-CHC动作电影,http://www.terrykang.cn:5678/fjgd.php?id=chcdz
-CHC影迷电影,http://www.terrykang.cn:5678/fjgd.php?id=chcgq
-
-CHC家庭影院,http://vl15191373.imwork.net:8880/udp/239.93.42.006:5140
-CHC动作电影,http://vl15191373.imwork.net:8880/udp/239.93.42.007:5140
-CHC影迷电影,http://vl15191373.imwork.net:8880/udp/239.93.42.005:5140
+CHC家庭影院,http://ssrs2004.win:7286/rtp/239.112.205.205:5140
+CHC动作电影,http://ssrs2004.win:7286/rtp/239.112.205.207:5140
+CHC影迷电影,http://ssrs2004.win:7286/rtp/239.112.205.206:5140
 
 淘电影,http://ry.soff.cn:4022//rtp/239.3.1.250:8001#http://happylive.asuscomm.com:8888/rtp/239.3.1.250:8001#http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.250:8001#https://udpxy.bj-cu.q1angch0u.com:8443/rtp/239.3.1.250:8001
 淘Baby,http://ry.soff.cn:4022/rtp/239.3.1.238:8001
@@ -162,7 +139,6 @@ CCTV中学生,http://1.70.34.196:8085/udp/239.1.1.104:8104
 
 福建,#genre#
 福建导视,http://www.terrykang.cn:5678/fjgd.php?id=fjds
-福建导视,http://123.207.56.192/box/list.php?sel=fjgd&id=fjds
 福建综合,rtsp://112.111.36.140/PLTV/88888909/224/3221225772/10000100000000060000000001418882_0.smil
 福建文体,rtsp://112.111.36.140/PLTV/88888909/224/3221225780/10000100000000060000000001424371_0.smil
 福建公共,rtsp://112.111.36.140/PLTV/88888909/224/3221225775/10000100000000060000000001423348_0.smil
@@ -201,7 +177,6 @@ CCTV中学生,http://1.70.34.196:8085/udp/239.1.1.104:8104
 港台,#genre#
 凤凰资讯,http://www.terrykang.cn:5678/fjgd.php?id=fhzx
 凤凰中文,http://www.terrykang.cn:5678/fjgd.php?id=fhzw
-凤凰香港,http://110.185.171.226:96/fhzb.php?type=1&id=0701phk72
 
 民视,rtmp://218.32.29.13/sat/tv051
 台视,rtmp://218.32.29.13/sat/tv071
