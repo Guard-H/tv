@@ -250,7 +250,7 @@ BBC-HD,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
 超视,P2p://generationnexxxt.com:19806/9cf45ab03b744e3696aeeb3aec844fa9
 Lifetime,P2p://generationnexxxt.com:19806/7d5e25a5a50c47c3b6853d45f9f54d63
 靖天国际,P2p://generationnexxxt.com:19806/924e7a65eec84eddade5f03c3d5ebb37
-霹雳湾,P2p://generationnexxxt.com:19806/0e3ab414dfb34fccb76d20665cd03da4
+霹雳台湾,P2p://generationnexxxt.com:19806/0e3ab414dfb34fccb76d20665cd03da4
 居家乐活,P2p://generationnexxxt.com:19806/695f8cb90c384faaa0a6253d92e35176
 食交子,P2p://generationnexxxt.com:19806/95909f6c10614748a8d824e33bdfaad0
 美食星球,P2p://generationnexxxt.com:19806/02a89e372e1344d0b74c5b288d4d1cea
@@ -269,7 +269,7 @@ tvbs精采,P2p://generationnexxxt.com:19806/0af9c12ec2a347b9b626002b0d10f37c
 壹综合,P2p://generationnexxxt.com:19806/cf21d5f3323f485b81fd561e01ddb505
 纬来精采,P2p://generationnexxxt.com:19806/28427e22e6804e4a8ebd65671e789376
 ETto综合,P2p://generationnexxxt.com:19806/760bcd80b88c4fefa052bef73e87c234
-视综合,P2p://generationnexxxt.com:19806/b8121a70de4c4ce1aa94361a1689297a
+台视综合,P2p://generationnexxxt.com:19806/b8121a70de4c4ce1aa94361a1689297a
 民视第一,P2p://generationnexxxt.com:19806/c29c4ad3a69749f4908e9ae4cab91032
 民视湾,P2p://generationnexxxt.com:19806/38f827cbd65f4fd8af9c173dc13f6cc7
 靖天欢乐,P2p://generationnexxxt.com:19806/292ac060fb694ab6bab52a705abd0444
@@ -304,9 +304,8 @@ Cinema,P2p://generationnexxxt.com:19806/b132ee920a4c47b284c08292e8c215f7
 纬来综合,P2p://generationnexxxt.com:19806/9ca438ac1af6416087c98ee06bb3e512
 采昌影剧,P2p://generationnexxxt.com:19806/2f739a4b287f479bbd28c962f1eb6367
 八大第一,P2p://generationnexxxt.com:19806/ef3ddf51945a48beabd3f79eeafe8ac0
-佛卫慈悲,P2p://generationnexxxt.com:19806/61d88141c1fe4dccac7b23e365606290
 八大综合,P2p://generationnexxxt.com:19806/5bc105affae344648b1b19d46233e6e6
-三立湾,P2p://generationnexxxt.com:19806/82c3325594cc42bcb28b18426623428e
+三立台湾,P2p://generationnexxxt.com:19806/82c3325594cc42bcb28b18426623428e
 三立都会,P2p://generationnexxxt.com:19806/d246662584364ea6aad39cb2c7767eec
 东森综合,P2p://generationnexxxt.com:19806/96888fe237044e2e97823cc5e215e1a3
 中天综合,P2p://generationnexxxt.com:19806/3e0f75883e414bb98765c2eab11991be
@@ -377,11 +376,11 @@ EVE,P2p://generationnexxxt.com:19806/958f90533a3f4857bd1ea3f6610f45e5
 EYE戏剧,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40f
 台视新闻,P2p://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7
 寰宇台湾,P2p://generationnexxxt.com:19806/eca259193814499a8bea04411ffceb1e
-视财台经,P2p://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e
+台视财经,P2p://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e
 纬来日本,P2p://generationnexxxt.com:19806/f975f456c2124eb78e6afaad3a9db300
 爱尔达影剧,P2p://generationnexxxt.com:19806/d2fc333d45044f419b16748a28ac19c5
 民视,P2p://generationnexxxt.com:19806/710b3fa51d9746d982e51411e5a49400
-三立湾,P2p://generationnexxxt.com:19806/82fb76c0b7d7487cb42604a970c4d2da
+三立台湾,P2p://generationnexxxt.com:19806/82fb76c0b7d7487cb42604a970c4d2da
 影迷数位,P2p://generationnexxxt.com:19806/68111c16e7bc42d3bc27791997d39a4b
 爱尔达一,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
 爱尔达三,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
@@ -412,7 +411,7 @@ Discover,P2p://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
 探索频道,P2p://generationnexxxt.com:19806/03803dbb35eb4e78a332b2b421b770c8
 动物星球,P2p://generationnexxxt.com:19806/e2f475dd35c74f20b7dc33c3204beb23
 三立iNEWS,P2p://generationnexxxt.com:19806/1d4ae63a90fa4f77b866e6f907a2c82c
-霹雳湾,P2p://generationnexxxt.com:19806/28662f792e3745e6893da9c2f2f94575
+霹雳台湾,P2p://generationnexxxt.com:19806/28662f792e3745e6893da9c2f2f94575
 BBCEarth,P2p://generationnexxxt.com:19806/14e78adfa4c44280a4ad715bab2532f0
 BBCLifestyl,P2p://generationnexxxt.com:19806/1d87116de5de48f5a94c45900b029545
 影迷数位,P2p://generationnexxxt.com:19806/953af90f5a014c74b239928d831a1480
@@ -425,7 +424,7 @@ BBCLifestyl,P2p://generationnexxxt.com:19806/1d87116de5de48f5a94c45900b029545
 中天娱乐,P2p://generationnexxxt.com:19806/ef92e3e69b334eaca20f0e2a26bf0f31
 WARNERtv,P2p://generationnexxxt.com:19806/fcf665244a5740ebb61fcba5ef2f6cee
 iFun动漫,P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564
-八大优频道,P2p://generationnexxxt.com:19806/18013a59708946259a859b90d07b8aac
+八大优,P2p://generationnexxxt.com:19806/18013a59708946259a859b90d07b8aac
 民视第一,P2p://generationnexxxt.com:19806/3a4000096c084c79af219586be8ed979
 东森戏剧,P2p://generationnexxxt.com:19806/4c925da5e039498a85b4d3fa0bfb5910
 历史频道,P2p://generationnexxxt.com:19806/cf774dbea20b492db00ab609f1c43d47
