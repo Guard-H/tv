@@ -18,6 +18,7 @@ CCTV15音乐,rtsp://220.200.30.136/PLTV/88888909/224/3221225746/1000010000000006
 CCTV16奥林匹克,rtsp://220.200.30.136/PLTV/88888909/224/3221225977/10000100000000060000000004051299_0.smil
 CCTV17农业农村,rtsp://220.200.30.136/PLTV/88888909/224/3221225769/10000100000000060000000001410290_0.smil
 
+CCTV16奥林匹克-4K,http://e3.woc.iiiya.cn:8888/udp/239.61.4.142:1025
 CCTV4K超高清,rtsp://112.111.36.140/PLTV/88888909/224/3221225984/10000100000000060000000004568052_0.smil
 CCTV4中文国际欧洲,http://ry.soff.cn:4022/rtp/239.3.1.213:4220
 CCTV4中文国际美洲,http://ry.soff.cn:4022/rtp/239.3.1.214:4220
@@ -72,7 +73,7 @@ CGTN俄语,rtsp://220.200.30.136/PLTV/88888909/224/3221225852/100001000000000600
 
 数字,#genre#
 CHC家庭影院,http://wddpmpc.sosos.run:4022/rtp/239.112.205.205:5140#http://summer-xa.icopylock.com:8888/rtp/239.112.205.205:5140
-CHC动作电影,http://wddpmpc.sosos.run:4022/rtp/239.112.205.207:5140
+CHC动作电影,http://wddpmpc.sosos.run:4022/rtp/239.112.205.207:5140#http://e3.woc.iiiya.cn:8888/udp/239.61.4.169:1025
 CHC影迷电影,http://wddpmpc.sosos.run:4022/rtp/239.112.205.206:5140
 
 淘电影,http://ry.soff.cn:4022//rtp/239.3.1.250:8001#http://happylive.asuscomm.com:8888/rtp/239.3.1.250:8001#http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.250:8001#https://udpxy.bj-cu.q1angch0u.com:8443/rtp/239.3.1.250:8001
