@@ -22,7 +22,6 @@ CCTV16奥林匹克-4K,http://prettyalan.vicp.cc:8888/udp/239.61.4.142:1025
 CCTV4K超高清,rtsp://112.111.36.140/PLTV/88888909/224/3221225984/10000100000000060000000004568052_0.smil
 CCTV4中文国际欧洲,http://enjie.vip:4022/rtp/239.3.1.213:4220
 CCTV4中文国际美洲,http://enjie.vip:4022/rtp/239.3.1.214:4220
-
 CGTN新闻,rtsp://112.111.36.140/PLTV/88888909/224/3221225734/10000100000000060000000000401649_0.smil
 CGTN纪录,rtsp://112.111.36.140/PLTV/88888909/224/3221225850/10000100000000060000000002734715_0.smil
 CGTN法语,rtsp://112.111.36.140/PLTV/88888909/224/3221225851/10000100000000060000000002734713_0.smil
@@ -75,7 +74,6 @@ CGTN俄语,rtsp://220.200.30.136/PLTV/88888909/224/3221225852/100001000000000600
 CHC家庭影院,http://wddpmpc.sosos.run:4022/rtp/239.112.205.205:5140#http://summer-xa.icopylock.com:8888/rtp/239.112.205.205:5140
 CHC动作电影,http://wddpmpc.sosos.run:4022/rtp/239.112.205.207:5140#http://prettyalan.vicp.cc:8888/udp/239.61.4.169:1025
 CHC影迷电影,http://wddpmpc.sosos.run:4022/rtp/239.112.205.206:5140
-
 淘电影,http://enjie.vip:4022/rtp/239.3.1.250:8001#http://sweetown.fun:4000/rtp/239.3.1.250:8001#http://ry.soff.cn:4022//rtp/239.3.1.250:8001
 淘Baby,http://enjie.vip:4022/rtp/239.3.1.238:8001
 北京体育,http://enjie.vip:4022/rtp/239.3.1.243:8000
@@ -172,12 +170,9 @@ ELEVEN体育2,rtmp://218.32.29.13/sat/tv741
 民视,rtmp://220.130.201.74/sat/tv051
 民视,rtmp://59.124.75.138/sat/tv051
 民视,rtmp://twcdn.top.xiptv.top/sat/tv051
-
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-
 体育1,rtmp://220.130.201.73/sat/md011
 体育2,rtmp://220.130.201.73/sat/md051
 体育3,rtmp://220.130.201.73/sat/md021
