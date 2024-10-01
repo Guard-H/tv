@@ -101,9 +101,9 @@ CCTV中学生,http://1.70.34.105:8085/udp/239.1.1.104:8104
 乐游纪实,http://prettyalan.vicp.cc:8888/udp/239.61.5.31:1025
 欢笑剧场,http://prettyalan.vicp.cc:8888/udp/239.61.5.30:1025
 都市剧场,http://prettyalan.vicp.cc:8888/udp/239.61.5.33:1025
+生活时尚,http://prettyalan.vicp.cc:8888/udp/239.61.5.25:1025
 动漫秀场,http://prettyalan.vicp.cc:8888/udp/239.61.5.32:1025
 游戏风云,http://prettyalan.vicp.cc:8888/udp/239.61.5.29:1025
-生活时尚,http://prettyalan.vicp.cc:8888/udp/239.61.5.25:1025
 法治天地,http://prettyalan.vicp.cc:8888/udp/239.61.4.77:1025
 金色学堂,http://prettyalan.vicp.cc:8888/udp/239.61.4.80:1025
 东方财经,http://prettyalan.vicp.cc:8888/udp/239.61.4.78:1025
