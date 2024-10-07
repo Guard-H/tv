@@ -17,14 +17,14 @@
 {"key":"夸克木偶弹幕","name":"夸克｜木偶","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"http://mogg.top","danmu":true}},
 {"key":"夸克团长弹幕","name":"夸克｜团长","type":3,"api":"csp_Tzfile","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
 {"key":"酷吧电影","name":"磁力｜酷吧","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"电影港","name":"磁力｜电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/电影港.json"},
+        
 {"key":"快看影视","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"热播影视","name":"热播","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧影视","name":"追剧","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
 {"key":"圣城影视","name":"圣城","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"大米星球","name":"大米","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"低端影视","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"在线之家","name":"在线","type":3,"api":"csp_Wexzxzj","searchable":1,"changeable":1},
 {"key":"视频库","name":"视频库","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
 {"key":"农民影视","name":"农民","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"利播影视","name":"利播","type":3,"api":"csp_Wexlibhd","searchable":1,"changeable":1},
