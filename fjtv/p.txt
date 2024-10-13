@@ -69,8 +69,8 @@ CGTN俄语,rtsp://220.200.30.136/PLTV/88888909/224/3221225852/100001000000000600
 山东教育,rtsp://112.111.36.140/PLTV/88888909/224/3221225705/10000100000000060000000000391773_0.smil
 
 数字,#genre#
-CHC家庭影院,http://czkeji.vip:9000/rtp/239.252.219.84:5140#http://summer-xa.icopylock.com:8888/rtp/239.112.205.205:5140
-CHC动作电影,http://czkeji.vip:9000/rtp/239.252.219.85:5140#http://prettyalan.vicp.cc:8888/udp/239.61.4.169:1025
+CHC家庭影院,http://czkeji.vip:9000/rtp/239.252.219.84:5140
+CHC动作电影,http://czkeji.vip:9000/rtp/239.252.219.85:5140
 CHC影迷电影,http://czkeji.vip:9000/rtp/239.252.219.83:5140
 淘电影,http://ry.soff.cn:4022/rtp/239.3.1.250:8001
 淘Baby,http://ry.soff.cn:4022/rtp/239.3.1.238:8001
