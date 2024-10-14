@@ -16,6 +16,7 @@
 {"key":"夸克云星弹幕","name":"夸克｜云星","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://4k.4u4.cn","danmu":true}},
 {"key":"夸克木偶弹幕","name":"夸克｜木偶","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"http://mogg.top","danmu":true}},
 {"key":"夸克团长弹幕","name":"夸克｜团长","type":3,"api":"csp_Tzfile","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
+{"key""夸克欧歌弹幕","name":"夸克｜欧哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://woog.nxog.eu.org","danmu":true}},
 {"key":"酷吧电影","name":"磁力｜酷吧","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"电影港","name":"磁力｜电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/电影港.json"},
 {"key":"磁力熊","name":"磁力｜磁力熊","type":3,"api":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/drpy2.min.js","ext":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/磁力熊.js"},
@@ -36,7 +37,6 @@
 {"key":"天天弹幕","name":"天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"小苹果","name":"苹果","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"萌米","name":"萌米","type":3,"api":"csp_AppTT","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
-{"key":"一起看弹幕","name":"一起看","type":3,"api":"csp_Yqk","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"南瓜影视","name":"南瓜","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"push_agent","name":"云盘｜推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true}},
