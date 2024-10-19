@@ -25,7 +25,7 @@
 {"key":"抠搜","name":"云盘｜抠搜","type":3,"api":"csp_KkSs","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
 {"key":"酷吧电影","name":"酷吧","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"厂长资源","name":"厂长","type":3,"api":"csp_Czzy","searchable"1,"quickSearch":1,"filterable":1},
+{"key":"厂长","name":"厂长","type":3,"api":"csp_NewCz","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy77.com/"},
 {"key":"欢视","name":"欢视","type":3,"api":"csp_AppTT","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
 {"key":"快看影视","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"热播影视","name":"热播","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
