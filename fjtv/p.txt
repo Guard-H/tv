@@ -71,9 +71,6 @@ CGTN俄语,rtsp://220.200.30.136/PLTV/88888909/224/3221225852/100001000000000600
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
-CHC家庭影院,http://nas.cafeng.top:9080/rtp/239.93.42.6:5140
-CHC动作电影,http://nas.cafeng.top:9080/rtp/239.93.42.7:5140
-CHC影迷电影,http://nas.cafeng.top:9080/rtp/239.93.42.5:5140
 淘电影,http://ry.soff.cn:4022/rtp/239.3.1.250:8001
 淘Baby,http://ry.soff.cn:4022/rtp/239.3.1.238:8001
 北京体育,http://ry.soff.cn:4022/rtp/239.3.1.243:8000
@@ -81,24 +78,10 @@ CHC影迷电影,http://nas.cafeng.top:9080/rtp/239.93.42.5:5140
 北京纪实,http://ry.soff.cn:4022/rtp/239.3.1.115:8000
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
-魅力足球,http://nas.cafeng.top:9080/rtp/239.93.42.97:5140
-劲爆体育,http://nas.cafeng.top:9080/rtp/239.93.42.98:5140
-求索纪录,http://nas.cafeng.top:9080/rtp/239.93.42.24:5140
+魅力足球,http://222.209.208.234:7088/rtp/239.93.42.97:5140
+劲爆体育,http://222.209.208.234:7088/rtp/239.93.42.98:5140
 求索纪录,http://222.209.208.234:7088/rtp/239.93.42.24:5140
-求索纪录,http://171.213.198.225:4000/rtp/239.93.42.24:5140
-
-CCTV兵器科技,http://nas.cafeng.top:9080/rtp/239.93.1.235:5140
-CCTV第一剧场,http://nas.cafeng.top:9080/rtp/239.93.1.197:5140
-CCTV怀旧剧场,http://nas.cafeng.top:9080/rtp/239.93.1.198:5140
-CCTV风云剧场,http://nas.cafeng.top:9080/rtp/239.93.1.156:5140
-CCTV风云音乐,http://nas.cafeng.top:9080/rtp/239.93.0.224:5140
-CCTV风云足球,http://nas.cafeng.top:9080/rtp/239.93.0.235:5140
-CCTV女性时尚,http://nas.cafeng.top:9080/rtp/239.93.42.62:5140
-CCTV文化精品,http://nas.cafeng.top:9080/rtp/239.93.42.47:5140
-CCTV世界地理,http://nas.cafeng.top:9080/rtp/239.93.1.157:5140
-CCTV央视台球,http://nas.cafeng.top:9080/rtp/239.93.0.218:5140
-CCTV高尔夫网,http://nas.cafeng.top:9080/rtp/239.93.1.54:5140
-CCTV电视指南,http://ilove.f3322.org:8888/udp/239.49.8.84:8000
+求索纪录,http://nas.cafeng.top:9080/rtp/239.93.42.24:5140
 
 CCTV兵器科技,http://1.70.35.224:8085/udp/239.1.1.97:8097
 CCTV第一剧场,http://1.70.35.224:8085/udp/239.1.1.94:8094
@@ -163,15 +146,12 @@ CCTV发现之旅,http://prettyalan.vicp.cc:8888/udp/239.61.4.189:1025
 港台,#genre#
 凤凰资讯,http://prettyalan.vicp.cc:8888/udp/239.61.5.47:1025
 凤凰中文,http://prettyalan.vicp.cc:8888/udp/239.61.5.48:1025
-凤凰资讯,http://nas.cafeng.top:9080/rtp/239.93.0.118:2191
-凤凰中文,http://nas.cafeng.top:9080/rtp/239.93.0.162:2192
+凤凰资讯,http://222.209.208.234:7088/rtp/239.93.0.118:2191
+凤凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
 凤凰资讯,http://e1.woc.iiiya.cn:8888/udp/239.61.5.47:1025
 凤凰中文,http://e1.woc.iiiya.cn:8888/udp/239.61.5.48:1025
 凤凰资讯,http://loevor.tpddns.cn:8888/udp/239.61.5.47:1025
 凤凰中文,http://loevor.tpddns.cn:8888/udp/239.61.5.48:1025
-凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8
 
 民视,rtmp://218.32.29.13/sat/tv051
 台视,rtmp://218.32.29.13/sat/tv071
