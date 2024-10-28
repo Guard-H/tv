@@ -68,7 +68,7 @@
 {"key":"初中课堂","name":"教育｜初中","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
 {"key":"高中教育","name":"教育｜高中","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"}
 ],
-"parses": [
+ "parses": [
         {
             "name": "聚合",
             "type": 3,
