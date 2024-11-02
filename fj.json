@@ -31,7 +31,7 @@
 {"key":"追剧影视","name":"追剧","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
 {"key":"大米星球","name":"大米","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"糯米弹幕","name":"糯米","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"视频库","name":"视频库","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
+{"key":"视频库","name":"视频库","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"}
 {"key":"农民影视","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天天影视","name":"天天","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"苹果","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1},
