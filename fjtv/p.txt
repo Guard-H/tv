@@ -95,6 +95,18 @@ CCTV世界地理,http://222.209.208.234:7088/rtp/239.93.1.157:5140
 CCTV央视台球,http://222.209.208.234:7088/rtp/239.93.0.218:5140
 CCTV高尔夫网球,http://222.209.208.234:7088/rtp/239.93.1.54:5140
 
+CCTV兵器科技,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.88:8000
+CCTV怀旧剧场,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.91:8000
+CCTV风云剧场,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.89:8000
+CCTV风云音乐,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.92:8000
+CCTV风云足球,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.85:8000
+CCTV女性时尚,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.93:8000
+CCTV文化精品,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.90:8000
+CCTV世界地理,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.87:8000
+CCTV央视台球,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.32:8000
+CCTV高尔夫网球,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.86:8000
+CCTV电视指南,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.84:8000
+
 CCTV兵器科技,http://yulang132.cn:4022/rtp/239.93.1.235:5140
 CCTV兵器科技,http://wqeeeee.x3322.net:4000/rtp/239.93.1.235:5140
 CCTV兵器科技,http://1.70.33.239:8085/udp/239.1.1.97:8097
