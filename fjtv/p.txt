@@ -18,8 +18,8 @@ CCTV15音乐,rtsp://220.200.30.136/PLTV/88888909/224/3221225746/1000010000000006
 CCTV16奥林匹克,rtsp://220.200.30.136/PLTV/88888909/224/3221225977/10000100000000060000000004051299_0.smil
 CCTV17农业农村,rtsp://220.200.30.136/PLTV/88888909/224/3221225769/10000100000000060000000001410290_0.smil
 CCTV4K超高清,rtsp://112.111.36.140/PLTV/88888909/224/3221225984/10000100000000060000000004568052_0.smil
-CCTV4中文国际欧洲,http://ry.soff.cn:4022/rtp/239.3.1.213:4220
-CCTV4中文国际美洲,http://ry.soff.cn:4022/rtp/239.3.1.214:4220
+CCTV4中文国际欧洲,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.213:4220
+CCTV4中文国际美洲,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.214:4220
 CGTN新闻,rtsp://112.111.36.140/PLTV/88888909/224/3221225734/10000100000000060000000000401649_0.smil
 CGTN纪录,rtsp://112.111.36.140/PLTV/88888909/224/3221225850/10000100000000060000000002734715_0.smil
 CGTN法语,rtsp://112.111.36.140/PLTV/88888909/224/3221225851/10000100000000060000000002734713_0.smil
@@ -68,17 +68,17 @@ CGTN俄语,rtsp://220.200.30.136/PLTV/88888909/224/3221225852/100001000000000600
 山东教育,rtsp://112.111.36.140/PLTV/88888909/224/3221225705/10000100000000060000000000391773_0.smil
 
 数字,#genre#
-CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
-CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
-CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
-淘电影,http://ry.soff.cn:4022/rtp/239.3.1.250:8001#http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.250:8001#http://joyznm.x3322.net:20000/rtp/239.3.1.250:8001
-淘Baby,http://ry.soff.cn:4022/rtp/239.3.1.238:8001
-北京体育,http://ry.soff.cn:4022/rtp/239.3.1.243:8000
-北京纪实,http://ry.soff.cn:4022/rtp/239.3.1.115:8000
-魅力足球,http://ry.soff.cn:4022/rtp/239.3.1.201:8001
-睛彩篮球,http://ry.soff.cn:4022/rtp/239.3.1.126:8001
-睛彩青少,http://ry.soff.cn:4022/rtp/239.3.1.127:8001
-睛彩竞技,http://ry.soff.cn:4022/rtp/239.3.1.125:8001
+CHC家庭影院,http://222.209.208.234:7088/rtp/239.93.42.6:5140
+CHC动作电影,http://222.209.208.234:7088/rtp/239.93.42.7:5140
+CHC影迷电影,http://222.209.208.234:7088/rtp/239.93.42.5:5140
+淘电影,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.250:8001#http://ry.soff.cn:4022/rtp/239.3.1.250:8001#http://joyznm.x3322.net:20000/rtp/239.3.1.250:8001
+淘Baby,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.238:8001
+北京体育,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.243:8000
+北京纪实,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.115:8000
+魅力足球,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.201:8001
+睛彩篮球,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.126:8001
+睛彩青少,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.127:8001
+睛彩竞技,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.125:8001
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 劲爆体育,http://222.209.208.234:7088/rtp/239.93.42.98:5140
@@ -156,8 +156,6 @@ CCTV发现之旅,http://prettyalan.vicp.cc:8888/udp/239.61.4.189:1025
 平潭-1,rtsp://220.200.30.136/PLTV/88888909/224/3221225973/10000100000000060000000003881064_0.smil
 
 港台,#genre#
-凤凰资讯,http://prettyalan.vicp.cc:8888/udp/239.61.5.47:1025
-凤凰中文,http://prettyalan.vicp.cc:8888/udp/239.61.5.48:1025
 凤凰资讯,http://222.209.208.234:7088/rtp/239.93.0.118:2191
 凤凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
 凤凰资讯,http://wqeeeee.x3322.net:4000/udp/239.93.0.118:2191
@@ -166,6 +164,8 @@ CCTV发现之旅,http://prettyalan.vicp.cc:8888/udp/239.61.4.189:1025
 凤凰中文,http://223.86.171.240:8999/rtp/239.93.16.31:8012
 凤凰资讯,http://yulang132.cn:4022/rtp/239.93.0.118:2191
 凤凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
+凤凰资讯,http://prettyalan.vicp.cc:8888/udp/239.61.5.47:1025
+凤凰中文,http://prettyalan.vicp.cc:8888/udp/239.61.5.48:1025
 
 民视,rtmp://218.32.29.13/sat/tv051
 台视,rtmp://218.32.29.13/sat/tv071
