@@ -8,6 +8,7 @@
 {"key":"我的阿里","name":"阿里｜登录","type":3,"api":"csp_MyAli","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt"},"style":{"type":"list"}},
 {"key":"我的夸克","name":"夸克｜登录","type":3,"api":"csp_MyQuark","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},"style":{"type":"list"}},
 {"key":"我的UC","name":"UC云｜登录","type":3,"api":"csp_MyUc","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"},"style":{"type":"list"}},
+{"key":"荐片弹幕","name":"荐片｜弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"huahai","name":"荐片｜花海","type":3,"api":"csp_Jianpian","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/myok.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"玩偶弹幕","name":"阿里云｜玩偶","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","wogg":true,"danmu":true}},
 {"key":"夸克蜡笔弹幕","name":"夸克｜蜡笔","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"http://labipan.com","danmu":true}},
