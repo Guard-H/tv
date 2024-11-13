@@ -28,6 +28,7 @@
 {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"欢视","name":"欢视","type":3,"api":"csp_AppTT","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
 {"key":"贱贱","name":"贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/jp.js"},
+{"key":"zxzj","name":"在线","type":3,"api":"csp_Zxzj","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"快看影视","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"热播影视","name":"热播","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧影视","name":"追剧","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
