@@ -22,7 +22,7 @@
 {"key":"新6V","name":"磁力｜新6V","type":3,"api":"csp_SixV","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"}, 
 {"key":"米搜","name":"云盘｜米盘","type":3,"api":"csp_MIPanSo","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"抠搜","name":"云盘｜抠搜","type":3,"api":"csp_KkSs","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"阿里合集","name":"阿里｜合集","type":3,"api":"csp_AliShare","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/okjpg.txt","searchable":1,"changeable":0,"filterable":0,"indexs":0,"ext":{"token":"file://TV/ali_token.txt","share":"file://TV/阿里集合.json"},"style":{"type":"list"},"timeout":30},
+{"key":"阿里合集","name":"阿里｜合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"indexs":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/alishare.txt"},"style":{"type":"list"}},
 
 {"key":"小苹果","name":"苹果","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":1,"quickSearch":1,"changeable":1},
