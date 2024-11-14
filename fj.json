@@ -8,8 +8,8 @@
 {"key":"我的阿里","name":"阿里｜登录","type":3,"api":"csp_MyAli","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt"},"style":{"type":"list"}},
 {"key":"我的夸克","name":"夸克｜登录","type":3,"api":"csp_MyQuark","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},"style":{"type":"list"}},
 {"key":"我的UC","name":"UC云｜登录","type":3,"api":"csp_MyUc","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"},"style":{"type":"list"}},
-{"key":"荐片弹幕","name":"荐片｜弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-//{"key":"huahai","name":"荐片｜影视","type":3,"api":"csp_Jianpian","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/myok.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+//{"key":"荐片弹幕","name":"荐片｜弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+{"key":"huahai","name":"荐片｜影视","type":3,"api":"csp_Jianpian","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/myok.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"玩偶弹幕","name":"阿里｜玩偶","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","wogg":true,"danmu":true}},
 {"key":"阿里合集","name":"阿里｜合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"indexs":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/alishare.txt"},"style":{"type":"list"},"timeout":30},
 {"key":"夸克蜡笔弹幕","name":"夸克｜蜡笔","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"http://labipan.com","danmu":true}},
@@ -28,7 +28,6 @@
 {"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"欢视","name":"欢视","type":3,"api":"csp_AppTT","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
-{"key":"贱贱","name":"贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/jp.js"},
 {"key":"zxzj","name":"在线","type":3,"api":"csp_Zxzj","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"快看影视","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"热播影视","name":"热播","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
@@ -66,7 +65,7 @@
 {"key":"初中课堂","name":"教育｜初中","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
 {"key":"高中教育","name":"教育｜高中","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"}
 ],
-"parses": [
+ "parses": [
         {
             "name": "聚合",
             "type": 3,
@@ -334,23 +333,23 @@
     ],
     "lives": [
         {
-            "name": "直播1",
+            "name": "直播",
             "type": 0,
-            "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
-            "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Gather",
+            "playerType": 2
         },
         {
-            "name": "直播2",
+            "name": "范明明",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 1
+            "playerType": 2
         },
         {
-            "name": "直播3",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Gather",
-            "playerType": 1
+            "name": "肥羊",
+            "type": 3,
+            "api": "csp_Ysptp",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
     ],
     "flags": [
