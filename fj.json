@@ -44,10 +44,10 @@
 {"key":"88看球","name":"体育｜88看球直播","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"ext":"http://www.88kanqiu.dog"},
 {"key":"Aid","name":"教育｜急救教学","type":3,"api":"csp_FirstAid","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 {"key":"dr_兔小贝","name":"教育｜兔小贝","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"少儿教育","name":"教育｜少儿","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/少儿教育.json"}},
-{"key":"小学课堂","name":"教育｜小学","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/小学课堂.json"}},
-{"key":"初中课堂","name":"教育｜初中","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/初中课堂.json"}},
-{"key":"高中教育","name":"教育｜高中","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/高中课堂.json"}}
+{"key":"少儿教育","name":"教育｜少儿","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/少儿教育.json"}},
+{"key":"小学课堂","name":"教育｜小学","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/小学课堂.json"}},
+{"key":"初中课堂","name":"教育｜初中","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/初中课堂.json"}},
+{"key":"高中教育","name":"教育｜高中","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/高中课堂.json"}}
 ],
  "parses": [
         {
