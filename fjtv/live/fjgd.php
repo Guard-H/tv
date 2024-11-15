@@ -89,7 +89,7 @@
   //echo $m3u8;
   function curl($url) {
       $curl = curl_init($url);
-curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+      curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
       curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
       curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
       $data = curl_exec($curl);
