@@ -1,4 +1,4 @@
-{"spider":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/spider.txt",
+{"spider":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt",
 "wallpaper": "https://api.likepoems.com/img/bing",
 "sites":[
 
@@ -25,7 +25,7 @@
 {"key":"zxzj","name":"在线","type":3,"api":"csp_Zxzj","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"快看影视","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"热播影视","name":"热播","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"追剧影视","name":"追剧｜APP","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"追剧影视","name":"追剧","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"糯米弹幕","name":"糯米","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"农民影视","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天天弹幕","name":"天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
