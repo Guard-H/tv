@@ -19,10 +19,10 @@
 {"key":"抠搜","name":"抠搜｜云盘","type":3,"api":"csp_KkSs","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"腾讯弹幕","name":"腾讯｜弹幕","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/movie/js/TXDM.js"},
 {"key":"优酷弹幕","name":"优酷｜弹幕","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/movie/js/YKDM.js"},
-{"key":"爱奇艺","name":"爱奇艺｜视频","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/movie/js/AQY.js"},
-{"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/movie/js/MGSP.js"},
-{"key":"哔哩视频","name":"哔哩｜视频","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/movie/js/BLSP.js"},
-{"key":"三六零","name":"三六零｜视频","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/movie/js/SLL.js"},
+{"key":"爱奇艺","name":"爱奇艺｜影视","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/movie/js/AQY.js"},
+{"key":"芒果视频","name":"芒果｜影视","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/movie/js/MGSP.js"},
+{"key":"哔哩视频","name":"哔哩｜影视","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/movie/js/BLSP.js"},
+{"key":"三六零","name":"三六零｜影视","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/movie/js/SLL.js"},
 
 {"key":"小苹果弹幕","name":"苹果｜弹幕","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"文才弹幕","name":"文才｜弹幕","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
@@ -39,15 +39,15 @@
 {"key":"萌米","name":"萌米｜影视","type":3,"api":"csp_AppTT","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 
 {"key":"push_agent","name":"推送｜云盘","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true}},
-{"key":"Jrsjs","name":"体育｜JRKAN直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"310js","name":"体育｜310看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"88看球","name":"体育｜88看球直播","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"ext":"http://www.88kanqiu.dog"},
-{"key":"Aid","name":"教育｜急救教学","type":3,"api":"csp_FirstAid","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
-{"key":"dr_兔小贝","name":"教育｜兔小贝","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"少儿教育","name":"教育｜少儿","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/少儿教育.json"}},
-{"key":"小学课堂","name":"教育｜小学","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/小学课堂.json"}},
-{"key":"初中课堂","name":"教育｜初中","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/初中课堂.json"}},
-{"key":"高中教育","name":"教育｜高中","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/高中课堂.json"}}
+{"key":"Jrsjs","name":"JRK球赛｜体育","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"310js","name":"310看球｜体育","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"88看球","name":"88看球｜体育","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"ext":"http://www.88kanqiu.dog"},
+{"key":"Aid","name":"急救教学｜教育","type":3,"api":"csp_FirstAid","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
+{"key":"dr_兔小贝","name":"兔小贝｜教育","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"少儿教育","name":"少儿｜教育","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/少儿教育.json"}},
+{"key":"小学课堂","name":"小学｜教育","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/小学课堂.json"}},
+{"key":"初中课堂","name":"初中｜教育","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/初中课堂.json"}},
+{"key":"高中教育","name":"高中｜教育","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/高中课堂.json"}}
 ],
 "parses": [
         {
