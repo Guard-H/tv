@@ -183,7 +183,7 @@ ELEVEN体育1,rtmp://218.32.29.13/sat/tv731
 ELEVEN体育2,rtmp://218.32.29.13/sat/tv741
 
 中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-tvbs新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+TVBS新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 非凡新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv010
 镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052
@@ -198,9 +198,9 @@ tvbs新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 民视台湾,https://litv.zapi.us.kg/?id=4gtv-4gtv001
 民视台湾,https://litv.zapi.us.kg/?id=4gtv-4gtv156
 中视菁采,https://litv.zapi.us.kg/?id=4gtv-4gtv064
-tvbs精采,https://litv.zapi.us.kg/?id=4gtv-4gtv067
-tvbs欢乐,https://litv.zapi.us.kg/?id=4gtv-4gtv068
-tvbs,https://litv.zapi.us.kg/?id=4gtv-4gtv073
+TVBS精采,https://litv.zapi.us.kg/?id=4gtv-4gtv067
+TVBS欢乐,https://litv.zapi.us.kg/?id=4gtv-4gtv068
+TVBS,https://litv.zapi.us.kg/?id=4gtv-4gtv073
 八大精彩,https://litv.zapi.us.kg/?id=4gtv-4gtv034
 龙华卡通,https://litv.zapi.us.kg/?id=litv-longturn01
 龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03
@@ -239,7 +239,7 @@ tvbs,https://litv.zapi.us.kg/?id=4gtv-4gtv073
 影迷数位,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 华仁纪实,https://litv.zapi.us.kg/?id=4gtv-4gtv013
 达文西,https://litv.zapi.us.kg/?id=4gtv-4gtv018
-amc电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 TRA体育,https://litv.zapi.us.kg/?id=4gtv-4gtv077
 Smart,https://litv.zapi.us.kg/?id=litv-longturn19
