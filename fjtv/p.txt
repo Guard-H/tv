@@ -72,7 +72,7 @@ CHC家庭影院,http://222.209.208.234:7088/rtp/239.93.42.6:5140
 CHC动作电影,http://222.209.208.234:7088/rtp/239.93.42.7:5140
 CHC影迷电影,http://222.209.208.234:7088/rtp/239.93.42.5:5140
 淘电影,http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.250:8001#http://ry.soff.cn:4022/rtp/239.3.1.250:8001
-淘Baby,http://naslmd.myqnapcloud.com:4022naslmd.myqnapcloud.com:4022/rtp/239.3.1.238:8001
+淘Baby,http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.238:8001
 北京体育,http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.243:8000
 北京纪实,http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.115:8000
 魅力足球,http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.201:8001
