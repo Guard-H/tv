@@ -174,7 +174,6 @@ ELEVEN体育1,rtmp://218.32.29.13/sat/tv731
 ELEVEN体育2,rtmp://218.32.29.13/sat/tv741
 
 东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
-美食星球,http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 美食星球,http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8?tid=MC7C6970270369702703&ct=19669&tsum=faf492333cc4bda84508dd719781fc87
 动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
 
