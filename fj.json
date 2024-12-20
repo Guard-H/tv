@@ -46,7 +46,7 @@
         },
 {
             "key": "短剧网",
-            "name": "短剧网｜短剧",
+            "name": "短剧｜影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/DJWang.json"
@@ -60,7 +60,7 @@
         },
  {
             "key": "米米影视",
-            "name": "米米｜APP",
+            "name": "米米｜影视",
             "type": 3,
             "api": "csp_AppZX",
             "searchable": 1,
