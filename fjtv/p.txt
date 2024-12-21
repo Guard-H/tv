@@ -178,7 +178,7 @@ ELEVEN体育2,rtmp://60.248.77.68/sat/tv741
 
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
-民视,rtmp://220.130.201.245/sat/tv051
+民视,rtmp://220.130.201.74/sat/tv051
 民视,rtmp://twcdn.top.xiptv.top/sat/tv051
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
