@@ -173,8 +173,22 @@ MoMo综合,rtmp://60.248.77.68/sat/tv761
 ELEVEN体育1,rtmp://60.248.77.68/sat/tv731
 ELEVEN体育2,rtmp://60.248.77.68/sat/tv741
 
-东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 美食星球,http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8?tid=MC7C6970270369702703&ct=19669&tsum=faf492333cc4bda84508dd719781fc87
+台视,http://125.227.210.55:8158/VideoInput/play.ts
+公视,http://125.227.210.55:8164/VideoInput/play.ts
+华视,http://125.227.210.55:8163/VideoInput/play.ts
+中视,http://125.227.210.55:8174/VideoInput/play.ts
+TVBS,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS欢乐,http://125.227.210.55:8187/VideoInput/play.ts
+三立新闻,http://125.227.210.55:8162/VideoInput/play.ts
+民视新闻,http://125.227.210.55:8157/VideoInput/play.ts
+HBO电影,http://125.227.210.55:8153/VideoInput/play.ts
+CINEMAX电影,http://125.227.210.55:8151/VideoInput/play.ts
+Discovery亚洲,http://125.227.210.55:8154/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
 
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
@@ -182,11 +196,6 @@ ELEVEN体育2,rtmp://60.248.77.68/sat/tv741
 民视,rtmp://twcdn.top.xiptv.top/sat/tv051
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-体育1,rtmp://220.130.201.73/sat/md011
-体育2,rtmp://220.130.201.73/sat/md051
-体育3,rtmp://220.130.201.73/sat/md021
-体育4,rtmp://220.130.201.73/sat/md041
-体育5,rtmp://220.130.201.73/sat/md031
 
 国际,#genre#
 卡塔尔·半岛新闻,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
@@ -205,3 +214,5 @@ ELEVEN体育2,rtmp://60.248.77.68/sat/tv741
 俄罗斯·BRICS中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 测试,#genre#
+民視第一,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
+民視台灣,video://https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
