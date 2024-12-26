@@ -248,7 +248,6 @@ ELTV生活英语,http://47.239.245.207:5050/litv/litv-longturn20
 镜新闻,http://47.239.245.207:5050/litv/4gtv-4gtv075
 CNBC Asia财经,http://47.239.245.207:5050/4gtv/235
 GINX Esports,http://47.239.245.207:5050/litv/4gtv-4gtv053
-TechStorm,http://47.239.245.207:5050/4gtv/181
 时尚运动X,http://47.239.245.207:5050/4gtv/277
 智林体育,http://47.239.245.207:5050/litv/4gtv-4gtv101
 TraceSports,http://47.239.245.207:5050/litv/4gtv-4gtv077
@@ -268,7 +267,7 @@ Rock Entertainment,http://47.239.245.207:5050/4gtv/275
 霹雳布袋戏,http://47.239.245.207:5050/4gtv/301
 梦工厂动画,http://47.239.245.207:5050/4gtv/282
 Nickelodeon,http://47.239.245.207:5050/4gtv/185
-Nick Jr儿童,http://47.239.245.207:5050/4gtv/219
+Nick Jr.儿童,http://47.239.245.207:5050/4gtv/219
 i-Fun动漫,http://47.239.245.207:5050/litv/litv-ftv15
 儿童卡通,http://47.239.245.207:5050/4gtv/269
 精选动漫,http://47.239.245.207:5050/4gtv/204
@@ -296,7 +295,6 @@ VOA美国之音,http://47.239.245.207:5050/litv/litv-ftv03
 DW德国之声,http://47.239.245.207:5050/4gtv/226
 SBN全球财经,http://47.239.245.207:5050/4gtv/224
 半岛国际新闻,http://47.239.245.207:5050/litv/litv-ftv10
-第一商业,http://47.239.245.207:5050/litv/4gtv-4gtv104
 History历史,http://47.239.245.207:5050/4gtv/214
 CI罪案侦查,http://47.239.245.207:5050/4gtv/215
 Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
@@ -319,7 +317,6 @@ Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
 电影免費看,http://47.239.245.207:5050/4gtv/245
 经典电影,http://47.239.245.207:5050/4gtv/201
 电影原声 CMusic,http://47.239.245.207:5050/4gtv/218
-经典剧场,http://47.239.245.207:5050/4gtv/279
 
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
