@@ -345,5 +345,4 @@ Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
 俄罗斯·BRICS中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 测试,#genre#
-民視第一,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
-民視台灣,video://https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
+
