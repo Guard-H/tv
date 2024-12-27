@@ -174,24 +174,12 @@ ELEVEN体育1,rtmp://60.248.77.68/sat/tv731
 ELEVEN体育2,rtmp://60.248.77.68/sat/tv741
 
 美食星球,http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8?tid=MC7C6970270369702703&ct=19669&tsum=faf492333cc4bda84508dd719781fc87
-台视,http://125.227.210.55:8158/VideoInput/play.ts
-中视,http://125.227.210.55:8174/VideoInput/play.ts
-华视,http://125.227.210.55:8163/VideoInput/play.ts
-公视,http://125.227.210.55:8164/VideoInput/play.ts
-TVBS,http://125.227.210.55:8188/VideoInput/play.ts
-TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
-TVBS欢乐,http://125.227.210.55:8187/VideoInput/play.ts
-三立新闻,http://125.227.210.55:8162/VideoInput/play.ts
-民视新闻,http://125.227.210.55:8157/VideoInput/play.ts
-HBO电影,http://125.227.210.55:8153/VideoInput/play.ts
-CINEMAX电影,http://125.227.210.55:8151/VideoInput/play.ts
-Discovery亚洲,http://125.227.210.55:8154/VideoInput/play.ts
-CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 
 民视,http://47.239.245.207:5050/litv/4gtv-4gtv002
 台视,http://47.239.245.207:5050/litv/4gtv-4gtv066
 中视,http://47.239.245.207:5050/litv/4gtv-4gtv040
 华视,http://47.239.245.207:5050/litv/4gtv-4gtv041
+华视新闻,http://47.239.245.207:5050/litv/4gtv-4gtv052
 民视第一,http://47.239.245.207:5050/litv/4gtv-4gtv003
 民视新闻,http://47.239.245.207:5050/litv/litv-ftv13
 民视台湾,http://47.239.245.207:5050/litv/4gtv-4gtv001
@@ -203,7 +191,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 中视菁采,http://47.239.245.207:5050/litv/4gtv-4gtv064
 中天新闻,http://47.239.245.207:5050/litv/4gtv-4gtv009
 中天亚洲,http://47.239.245.207:5050/litv/4gtv-4gtv109
-华视新闻,http://47.239.245.207:5050/litv/4gtv-4gtv052
 靖天综合,http://47.239.245.207:5050/litv/4gtv-4gtv046
 靖天国际,http://47.239.245.207:5050/litv/4gtv-4gtv063
 靖天戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv058
@@ -214,14 +201,14 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 靖天资讯,http://47.239.245.207:5050/litv/4gtv-4gtv065
 靖天电影,http://47.239.245.207:5050/litv/4gtv-4gtv061
 靖天欢乐,http://47.239.245.207:5050/litv/4gtv-4gtv054
+靖洋戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv045
+靖洋卡通,http://47.239.245.207:5050/litv/4gtv-4gtv057
 龍华偶像,http://47.239.245.207:5050/litv/litv-longturn12
 龍华卡通,http://47.239.245.207:5050/litv/litv-longturn01
 龍华戏剧,http://47.239.245.207:5050/litv/litv-longturn18
 龍华日韩,http://47.239.245.207:5050/litv/litv-longturn11
 龍华经典,http://47.239.245.207:5050/litv/litv-longturn21
 龍华电影,http://47.239.245.207:5050/litv/litv-longturn03
-靖洋戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv045
-靖洋卡通,http://47.239.245.207:5050/litv/4gtv-4gtv057
 寰宇新闻,http://47.239.245.207:5050/litv/litv-longturn14
 寰宇新闻台湾,http://47.239.245.207:5050/litv/litv-longturn15
 寰宇财经,http://47.239.245.207:5050/litv/litv-longturn23
@@ -269,9 +256,6 @@ Rock Entertainment,http://47.239.245.207:5050/4gtv/275
 Nickelodeon,http://47.239.245.207:5050/4gtv/185
 Nick Jr.儿童,http://47.239.245.207:5050/4gtv/219
 i-Fun动漫,http://47.239.245.207:5050/litv/litv-ftv15
-儿童卡通,http://47.239.245.207:5050/4gtv/269
-精选动漫,http://47.239.245.207:5050/4gtv/204
-经典卡通,http://47.239.245.207:5050/4gtv/202
 达文西,http://47.239.245.207:5050/litv/4gtv-4gtv018
 MOMO亲子,http://47.239.245.207:5050/4gtv/231
 LiveABC互动英语,http://47.239.245.207:5050/4gtv/188
@@ -312,6 +296,9 @@ Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
 博斯高球2,http://47.239.245.207:5050/litv/litv-longturn06
 博斯网球,http://47.239.245.207:5050/litv/litv-longturn09
 博斯魅力,http://47.239.245.207:5050/litv/litv-longturn04
+儿童卡通,http://47.239.245.207:5050/4gtv/269
+精选动漫,http://47.239.245.207:5050/4gtv/204
+经典卡通,http://47.239.245.207:5050/4gtv/202
 戏剧免费看1,http://47.239.245.207:5050/4gtv/270
 戏剧免费看2,http://47.239.245.207:5050/4gtv/244
 电影免費看,http://47.239.245.207:5050/4gtv/245
@@ -342,9 +329,16 @@ Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
 俄罗斯·BRICS中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 测试,#genre#
-动物星球,p3p://173.208.176.178:31809/6214894b0007e3120334d50a59d03689
-美食星球,p3p://173.208.176.178:31809/62c9a5620009f165c6a22320701370b6
-纬来体育,p3p://173.208.176.178:31809/5fe16e4c000e45c17788ec964e9c5564
-爱尔达体育1,p3p://173.208.176.178:31809/623a8d50000c965397b2d5b26c7b25bd
-爱尔达体育2,p3p://173.208.176.178:31809/623a8d8d0001570d97b3c11a65640b68
-爱尔达体育3,p3p://173.208.176.178:31809/622e99e60004026169046fd918be6ed7
+台视,http://125.227.210.55:8158/VideoInput/play.ts
+中视,http://125.227.210.55:8174/VideoInput/play.ts
+华视,http://125.227.210.55:8163/VideoInput/play.ts
+公视,http://125.227.210.55:8164/VideoInput/play.ts
+TVBS,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS欢乐,http://125.227.210.55:8187/VideoInput/play.ts
+三立新闻,http://125.227.210.55:8162/VideoInput/play.ts
+民视新闻,http://125.227.210.55:8157/VideoInput/play.ts
+HBO电影,http://125.227.210.55:8153/VideoInput/play.ts
+CINEMAX电影,http://125.227.210.55:8151/VideoInput/play.ts
+Discovery亚洲,http://125.227.210.55:8154/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
