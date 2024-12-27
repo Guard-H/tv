@@ -328,7 +328,7 @@ Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
 日本·NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 俄罗斯·BRICS中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
-测试,#genre#
+电信,#genre#
 台视,http://125.227.210.55:8158/VideoInput/play.ts
 中视,http://125.227.210.55:8174/VideoInput/play.ts
 华视,http://125.227.210.55:8163/VideoInput/play.ts
@@ -354,8 +354,8 @@ NHK日本,http://203.75.191.130:35802/VideoInput/play.ts
 凤凰中文,http://203.75.191.130:39004/VideoInput/play.ts
 SPOTV,http://203.75.191.130:39004/VideoInput/play.ts
 TVRI,http://203.75.191.130:8172/VideoInput/play.ts
-BO,http://203.75.191.130:8173/VideoInput/play.ts
+NTV,http://203.75.191.130:8173/VideoInput/play.ts
 惊艳(AV),http://125.227.210.55:8156/VideoInput/play.ts
-Mainu(AV),http://203.75.191.130:51359/VideoInput/play.ts
+麻豆(AV),http://203.75.191.130:51359/VideoInput/play.ts
 
 民视第一,http://tv543.cc/litv.php?id=4gtv-4gtv003
