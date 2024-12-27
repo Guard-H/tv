@@ -342,3 +342,5 @@ HBO电影,http://125.227.210.55:8153/VideoInput/play.ts
 CINEMAX电影,http://125.227.210.55:8151/VideoInput/play.ts
 Discovery亚洲,http://125.227.210.55:8154/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+
+中视,http://203.75.191.130:8158/VideoInput/play.ts
