@@ -352,6 +352,7 @@ TV5新闻,http://203.75.191.130:15533/VideoInput/play.ts
 NHK日本,http://203.75.191.130:35802/VideoInput/play.ts
 阿里郎韩国,http://203.75.191.130:48553/VideoInput/play.ts
 凤凰中文,http://203.75.191.130:39004/VideoInput/play.ts
+SPOTV,http://203.75.191.130:39004/VideoInput/play.ts
 TVRI,http://203.75.191.130:8172/VideoInput/play.ts
 BO,http://203.75.191.130:8173/VideoInput/play.ts
 惊艳(AV),http://125.227.210.55:8156/VideoInput/play.ts
