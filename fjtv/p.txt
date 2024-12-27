@@ -275,6 +275,7 @@ Fun探索娱乐,http://47.239.245.207:5050/4gtv/274
 幸福空间居家,http://47.239.245.207:5050/4gtv/168
 阿里郎,http://47.239.245.207:5050/litv/4gtv-4gtv079
 Bloomberg,http://47.239.245.207:5050/4gtv/283
+CMusic,http://47.239.245.207:5050/4gtv/218
 VOA美国之音,http://47.239.245.207:5050/litv/litv-ftv03
 DW德国之声,http://47.239.245.207:5050/4gtv/226
 SBN全球财经,http://47.239.245.207:5050/4gtv/224
@@ -303,7 +304,6 @@ Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
 戏剧免费看2,http://47.239.245.207:5050/4gtv/244
 电影免費看,http://47.239.245.207:5050/4gtv/245
 经典电影,http://47.239.245.207:5050/4gtv/201
-电影原声 CMusic,http://47.239.245.207:5050/4gtv/218
 
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
