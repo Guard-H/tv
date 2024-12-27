@@ -355,4 +355,6 @@ NHK日本,http://203.75.191.130:35802/VideoInput/play.ts
 凤凰中文,http://203.75.191.130:39004/VideoInput/play.ts
 TVRI,http://203.75.191.130:8172/VideoInput/play.ts
 BO,http://203.75.191.130:8173/VideoInput/play.ts
-Mainu,http://203.75.191.130:51359/VideoInput/play.ts
+惊艳(AV),http://125.227.210.55:8156/VideoInput/play.ts
+Mainu(AV),http://203.75.191.130:51359/VideoInput/play.ts
+
