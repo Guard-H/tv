@@ -328,7 +328,7 @@ Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
 日本·NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 俄罗斯·BRICS中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
-电信,#genre#
+测试,#genre#
 台视,http://125.227.210.55:8158/VideoInput/play.ts
 中视,http://125.227.210.55:8174/VideoInput/play.ts
 华视,http://125.227.210.55:8163/VideoInput/play.ts
