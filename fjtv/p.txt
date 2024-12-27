@@ -340,9 +340,8 @@ TVBS欢乐,http://125.227.210.55:8187/VideoInput/play.ts
 民视新闻,http://125.227.210.55:8157/VideoInput/play.ts
 HBO电影,http://125.227.210.55:8153/VideoInput/play.ts
 CINEMAX电影,http://125.227.210.55:8151/VideoInput/play.ts
-Discovery亚洲,http://125.227.210.55:8154/VideoInput/play.ts
+探索亚洲,http://125.227.210.55:8154/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-
 BBC新闻,http://203.75.191.130:8165/VideoInput/play.ts
 CNN新闻,http://203.75.191.130:8166/VideoInput/play.ts
 CNBC新闻,http://203.75.191.130:8152/VideoInput/play.ts
