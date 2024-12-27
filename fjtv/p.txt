@@ -358,3 +358,4 @@ BO,http://203.75.191.130:8173/VideoInput/play.ts
 惊艳(AV),http://125.227.210.55:8156/VideoInput/play.ts
 Mainu(AV),http://203.75.191.130:51359/VideoInput/play.ts
 
+民视第一,http://tv543.cc/litv.php?id=4gtv-4gtv003
