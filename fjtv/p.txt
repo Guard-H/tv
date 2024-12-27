@@ -343,4 +343,16 @@ CINEMAX电影,http://125.227.210.55:8151/VideoInput/play.ts
 Discovery亚洲,http://125.227.210.55:8154/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 
-中视,http://203.75.191.130:8158/VideoInput/play.ts
+BBC新闻,http://203.75.191.130:8165/VideoInput/play.ts
+CNN新闻,http://203.75.191.130:8166/VideoInput/play.ts
+CNBC新闻,http://203.75.191.130:8152/VideoInput/play.ts
+彭博社新闻,http://203.75.191.130:8161/VideoInput/play.ts
+KBS新闻,http://203.75.191.130:17478/VideoInput/play.ts
+DW新闻,http://203.75.191.130:42534/VideoInput/play.ts
+TV5新闻,http://203.75.191.130:15533/VideoInput/play.ts
+NHK日本,http://203.75.191.130:35802/VideoInput/play.ts
+阿里郎韩国,http://203.75.191.130:48553/VideoInput/play.ts
+凤凰中文,http://203.75.191.130:39004/VideoInput/play.ts
+TVRI,http://203.75.191.130:8172/VideoInput/play.ts
+BO,http://203.75.191.130:8173/VideoInput/play.ts
+Mainu,http://203.75.191.130:51359/VideoInput/play.ts
