@@ -173,8 +173,6 @@ MoMo综合,rtmp://60.248.77.68/sat/tv761
 ELEVEN体育1,rtmp://60.248.77.68/sat/tv731
 ELEVEN体育2,rtmp://60.248.77.68/sat/tv741
 
-美食星球,http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8?tid=MC7C6970270369702703&ct=19669&tsum=faf492333cc4bda84508dd719781fc87
-
 民视,http://47.239.245.207:5050/litv/4gtv-4gtv002
 台视,http://47.239.245.207:5050/litv/4gtv-4gtv066
 中视,http://47.239.245.207:5050/litv/4gtv-4gtv040
@@ -183,7 +181,6 @@ ELEVEN体育2,rtmp://60.248.77.68/sat/tv741
 民视第一,http://47.239.245.207:5050/litv/4gtv-4gtv003
 民视新闻,http://47.239.245.207:5050/litv/litv-ftv13
 民视台湾,http://47.239.245.207:5050/litv/4gtv-4gtv001
-民视影剧,http://47.239.245.207:5050/litv/litv-ftv09
 民视旅游,http://47.239.245.207:5050/litv/litv-ftv07
 民视综艺,http://47.239.245.207:5050/litv/4gtv-4gtv004
 中视新闻,http://47.239.245.207:5050/litv/4gtv-4gtv074
@@ -191,22 +188,21 @@ ELEVEN体育2,rtmp://60.248.77.68/sat/tv741
 中视菁采,http://47.239.245.207:5050/litv/4gtv-4gtv064
 中天新闻,http://47.239.245.207:5050/litv/4gtv-4gtv009
 中天亚洲,http://47.239.245.207:5050/litv/4gtv-4gtv109
-寰宇新闻,http://47.239.245.207:5050/litv/litv-longturn14
 寰宇新闻台湾,http://47.239.245.207:5050/litv/litv-longturn15
-寰宇财经,http://47.239.245.207:5050/litv/litv-longturn23
 亚洲旅游,http://47.239.245.207:5050/litv/litv-longturn17
 TVBS,http://47.239.245.207:5050/litv/4gtv-4gtv073
 TVBS新闻,http://47.239.245.207:5050/litv/4gtv-4gtv072
 TVBS欢乐,http://47.239.245.207:5050/litv/4gtv-4gtv068
 TVBS精采,http://47.239.245.207:5050/litv/4gtv-4gtv067
-八大精彩,http://47.239.245.207:5050/litv/4gtv-4gtv034
 八大综艺,http://47.239.245.207:5050/litv/4gtv-4gtv039
-台视新闻,http://47.239.245.207:5050/litv/4gtv-4gtv051
 台视财经,http://47.239.245.207:5050/litv/4gtv-4gtv056
 ELTA娱乐,http://47.239.245.207:5050/litv/4gtv-4gtv070
 ELTV生活英语,http://47.239.245.207:5050/litv/litv-longturn20
+Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
+采昌影剧,http://47.239.245.207:5050/litv/4gtv-4gtv049
+台湾戏剧,http://47.239.245.207:5050/litv/litv-longturn22
+i-Fun动漫,http://47.239.245.207:5050/litv/litv-ftv15
 东森新闻,http://47.239.245.207:5050/litv/4gtv-4gtv152
-东森财经新闻,http://47.239.245.207:5050/litv/4gtv-4gtv153
 靖天综合,http://47.239.245.207:5050/litv/4gtv-4gtv046
 靖天国际,http://47.239.245.207:5050/litv/4gtv-4gtv063
 靖天戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv058
@@ -217,13 +213,10 @@ ELTV生活英语,http://47.239.245.207:5050/litv/litv-longturn20
 靖天资讯,http://47.239.245.207:5050/litv/4gtv-4gtv065
 靖天电影,http://47.239.245.207:5050/litv/4gtv-4gtv061
 靖天欢乐,http://47.239.245.207:5050/litv/4gtv-4gtv054
-靖洋戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv045
-靖洋卡通,http://47.239.245.207:5050/litv/4gtv-4gtv057
 龍华偶像,http://47.239.245.207:5050/litv/litv-longturn12
 龍华卡通,http://47.239.245.207:5050/litv/litv-longturn01
 龍华戏剧,http://47.239.245.207:5050/litv/litv-longturn18
 龍华日韩,http://47.239.245.207:5050/litv/litv-longturn11
-龍华经典,http://47.239.245.207:5050/litv/litv-longturn21
 龍华电影,http://47.239.245.207:5050/litv/litv-longturn03
 非凡新闻,http://47.239.245.207:5050/litv/4gtv-4gtv010
 非凡商业,http://47.239.245.207:5050/litv/4gtv-4gtv048
@@ -231,22 +224,12 @@ ELTV生活英语,http://47.239.245.207:5050/litv/litv-longturn20
 GINX Esports,http://47.239.245.207:5050/litv/4gtv-4gtv053
 智林体育,http://47.239.245.207:5050/litv/4gtv-4gtv101
 TraceSports,http://47.239.245.207:5050/litv/4gtv-4gtv077
-影迷数位电影,http://47.239.245.207:5050/litv/4gtv-4gtv011
-AMC电影,http://47.239.245.207:5050/litv/4gtv-4gtv017
-CatchPlay电影,http://47.239.245.207:5050/litv/4gtv-4gtv076
-公视戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv042
-采昌影剧,http://47.239.245.207:5050/litv/4gtv-4gtv049
-台湾戏剧,http://47.239.245.207:5050/litv/litv-longturn22
-i-Fun动漫,http://47.239.245.207:5050/litv/litv-ftv15
 达文西,http://47.239.245.207:5050/litv/4gtv-4gtv018
 Classica古典乐,http://47.239.245.207:5050/litv/4gtv-4gtv059
 Mezzo Live,http://47.239.245.207:5050/litv/4gtv-4gtv083
 Trace Urban,http://47.239.245.207:5050/litv/4gtv-4gtv082
 VOA美国之音,http://47.239.245.207:5050/litv/litv-ftv03
 半岛国际新闻,http://47.239.245.207:5050/litv/litv-ftv10
-Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
-视纳华仁纪实,http://47.239.245.207:5050/litv/4gtv-4gtv013
-客家,http://47.239.245.207:5050/litv/4gtv-4gtv043
 国会1,http://47.239.245.207:5050/litv/4gtv-4gtv084
 国会2,http://47.239.245.207:5050/litv/4gtv-4gtv085
 博斯运动1,http://47.239.245.207:5050/litv/litv-longturn07
@@ -258,6 +241,25 @@ Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
 博斯网球,http://47.239.245.207:5050/litv/litv-longturn09
 博斯魅力,http://47.239.245.207:5050/litv/litv-longturn04
 
+靖洋戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv045
+东森财经新闻,http://47.239.245.207:5050/litv/4gtv-4gtv153
+八大精彩,http://47.239.245.207:5050/litv/4gtv-4gtv034
+寰宇财经,http://47.239.245.207:5050/litv/litv-longturn23
+影迷数位电影,http://47.239.245.207:5050/litv/4gtv-4gtv011
+AMC电影,http://47.239.245.207:5050/litv/4gtv-4gtv017
+CatchPlay电影,http://47.239.245.207:5050/litv/4gtv-4gtv076
+公视戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv042
+影迷数位电影,http://47.239.245.207:5050/litv/4gtv-4gtv011
+AMC电影,http://47.239.245.207:5050/litv/4gtv-4gtv017
+CatchPlay电影,http://47.239.245.207:5050/litv/4gtv-4gtv076
+公视戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv042
+视纳华仁纪实,http://47.239.245.207:5050/litv/4gtv-4gtv013
+客家,http://47.239.245.207:5050/litv/4gtv-4gtv043
+龍华经典,http://47.239.245.207:5050/litv/litv-longturn21
+靖洋卡通,http://47.239.245.207:5050/litv/4gtv-4gtv057
+寰宇新闻,http://47.239.245.207:5050/litv/litv-longturn14
+民视影剧,http://47.239.245.207:5050/litv/litv-ftv09
+台视新闻,http://47.239.245.207:5050/litv/4gtv-4gtv051
 TVBS综艺,http://47.239.245.207:5050/4gtv/284
 TVBS台剧,http://47.239.245.207:5050/4gtv/285
 三立综合,http://47.239.245.207:5050/4gtv/169
