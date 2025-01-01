@@ -174,7 +174,6 @@ ELEVEN体育1,rtmp://60.248.77.68/sat/tv731
 ELEVEN体育2,rtmp://60.248.77.68/sat/tv741
 
 民视,http://47.239.245.207:5050/litv/4gtv-4gtv002
-台视,http://47.239.245.207:5050/litv/4gtv-4gtv066
 中视,http://47.239.245.207:5050/litv/4gtv-4gtv040
 华视,http://47.239.245.207:5050/litv/4gtv-4gtv041
 华视新闻,http://47.239.245.207:5050/litv/4gtv-4gtv052
