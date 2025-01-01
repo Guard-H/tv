@@ -55,41 +55,7 @@
 {"key":"初中课堂","name":"初中｜教育","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/初中课堂.json"}},
 {"key":"高中教育","name":"高中｜教育","type":3,"api":"csp_Bili","jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/高中课堂.json"}}
 ],
-"parses": [
-        {
-            "name": "聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "臻享",
-            "type": "1",
-            "url": "https://jk.123zy.cool/jx/jx.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
+ "parses": [
         {
             "name": "推荐",
             "type": 1,
@@ -120,17 +86,134 @@
             }
         },
         {
-            "name": "线路1",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
+            "name": "优选",
+            "type": 1,
+            "url": "http://1.94.221.189:88/algorithm.php?url=",
             "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
                 "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                    "User-Agent": "okhttp/4.9.1"
                 }
             }
         },
         {
-            "name": "线路2",
+            "name": "臻享",
+            "type": "1",
+            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "至臻",
+            "type": 1,
+            "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "HGvip",
+            "type": 1,
+            "url": "http://1.94.221.189:88/algorithm.php?url=",
+            "ext": {
+                "flag": [
+                    "hgvip"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "皮皮虾",
+            "type": "1",
+            "url": "http://45.207.215.101:5423/index.php?url=",
+            "ext": {
+                "flag": [
+                    "PPXLG",
+                    "皮皮虾4K"
+                ]
+            }
+        },
+        {
+            "name": "无双",
+            "type": 0,
+            "url": " http://103.117.123.193:1980/players/?url=",
+            "ext": {
+                "flag": [
+                    "mgtv",
+                    "芒果",
+                    "RY",
+                    "VIP线路"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "线路1",
             "type": 0,
             "url": "https://jx.quankan.app/?url=",
             "ext": {
@@ -140,7 +223,7 @@
             }
         },
         {
-            "name": "线路3",
+            "name": "线路2",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url=",
             "ext": {
@@ -150,7 +233,7 @@
             }
         },
         {
-            "name": "线路4",
+            "name": "线路3",
             "type": 0,
             "url": "https://jx.aidouer.net/?url=",
             "ext": {
@@ -161,88 +244,121 @@
             }
         },
         {
-            "name": "线路5",
+            "name": "线路4",
             "type": 0,
             "url": "https://www.8090g.cn/?url="
         },
         {
-            "name": "线路6",
+            "name": "线路5",
             "type": 0,
             "url": "https://jx.yangtu.top?url="
         },
         {
-            "name": "线路7",
+            "name": "线路6",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
         },
         {
-            "name": "线路8",
+            "name": "线路7",
             "type": 0,
             "url": "https://www.ckplayer.vip/jiexi/?url="
         }
     ],
     "rules": [
         {
-            "name": "暴风",
+            "name": "量子非凡广告",
             "hosts": [
-                "bfzy",
-                "bfbfvip",
-                "bfengbf"
-            ],
-            "regex": [
-                "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
-            ]
-        },
-        {
-            "name": "量子",
-            "hosts": [
+                "lz",
                 "vip.lz",
+                "v.cdnlz",
                 "hd.lz",
-                ".cdnlz"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "17.19"
-            ]
-        },
-        {
-            "name": "非凡",
-            "hosts": [
+                "ffzy",
                 "vip.ffzy",
-                "hd.ffzy",
-                "super.ffzy"
+                "hd.ffzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
-                "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
-                "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
-                "17.99",
-                "14.45"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
-            "name": "索尼",
+            "name": "索尼广告",
             "hosts": [
-                "suonizy"
+                "suonizy",
+                "qrssv.com"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
-                "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
+                "15.1666",
+                "15.2666"
             ]
         },
         {
-            "name": "快看",
+            "name": "乐视广告",
             "hosts": [
-                "kuaikan"
+                "leshiyun"
+            ],
+            "regex": [
+                "15.92"
+            ]
+        },
+        {
+            "name": "优质广告",
+            "hosts": [
+                "yzzy",
+                "playback"
+            ],
+            "regex": [
+                "16.63",
+                "18.66",
+                "17.66",
+                "19.13"
+            ]
+        },
+        {
+            "name": "快看广告",
+            "hosts": [
+                "kuaikan",
+                "vip.kuaikan"
+            ],
+            "regex": [
+                "15.32",
+                "15.231",
+                "18.066"
+            ]
+        },
+        {
+            "name": "360广告",
+            "hosts": [
+                "lyhuicheng"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
+                "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "开源棋牌",
+            "hosts": [
+                "askzycdn",
+                "jkunbf",
+                "bfikuncdn",
+                "bfaskcdn"
             ],
             "regex": [
                 "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "暴风广告",
+            "hosts": [
+                "bfengbf.com",
+                "bfzy",
+                "c1"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
@@ -347,21 +463,56 @@
         {
             "name": "直播",
             "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Gather",
-            "playerType": 2
+            "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
+            "playerType": 2,
+            "timeout": 10
         },
         {
             "name": "范明明",
             "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 2
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+            "playerType": 2,
+            "timeout": 10
         },
         {
-            "name": "肥羊",
+            "name": "肥羊国内直播",
             "type": 3,
-            "api": "csp_Ysptp",
-            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/live.txt",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
+            "api": "csp_Feiyang",
+            "url": "tv.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "肥羊虎牙一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "huyayqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "肥羊B站直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "bililive.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "肥羊斗鱼一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "douyuyqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "肥羊YY轮播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "yylunbo.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
         }
     ],
     "flags": [
