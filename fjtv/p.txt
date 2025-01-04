@@ -548,7 +548,7 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 明珠剧集(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亞电影(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+美亚电影(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 翡翠剧集(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠综合(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
@@ -617,7 +617,7 @@ NTV,http://203.75.191.130:8173/VideoInput/play.ts
 惊艳(AV),http://125.227.210.55:8156/VideoInput/play.ts
 麻豆(AV),http://203.75.191.130:51359/VideoInput/play.ts
 
-
-
-
+测试,#genre#
+天映经典,https://pixman.mytvsuper.com.mp/mytvsuper/CCCM
+美亚电影,https://pixman.mytvsuper.com.mp/mytvsuper/CMAM
 
