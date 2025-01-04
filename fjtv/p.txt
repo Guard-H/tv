@@ -174,6 +174,7 @@ ELEVEN体育1,rtmp://60.248.77.68/sat/tv731
 ELEVEN体育2,rtmp://60.248.77.68/sat/tv741
 
 民视,http://47.239.245.207:5050/litv/4gtv-4gtv002
+台视,http://tv543.cc/litv.php?id=4gtv-4gtv066
 中视,http://47.239.245.207:5050/litv/4gtv-4gtv040
 华视,http://47.239.245.207:5050/litv/4gtv-4gtv041
 华视新闻,http://47.239.245.207:5050/litv/4gtv-4gtv052
@@ -202,6 +203,9 @@ Smart知识,http://47.239.245.207:5050/litv/litv-longturn19
 台湾戏剧,http://47.239.245.207:5050/litv/litv-longturn22
 i-Fun动漫,http://47.239.245.207:5050/litv/litv-ftv15
 东森新闻,http://47.239.245.207:5050/litv/4gtv-4gtv152
+八大精彩,http://tv543.cc/litv.php?id=4gtv-4gtv034
+影迷数位电影,http://tv543.cc/litv.php?id=4gtv-4gtv011
+AMC电影,http://tv543.cc/litv.php?id=4gtv-4gtv017
 靖天综合,http://47.239.245.207:5050/litv/4gtv-4gtv046
 靖天国际,http://47.239.245.207:5050/litv/4gtv-4gtv063
 靖天戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv058
@@ -220,6 +224,8 @@ i-Fun动漫,http://47.239.245.207:5050/litv/litv-ftv15
 非凡新闻,http://47.239.245.207:5050/litv/4gtv-4gtv010
 非凡商业,http://47.239.245.207:5050/litv/4gtv-4gtv048
 镜新闻,http://47.239.245.207:5050/litv/4gtv-4gtv075
+韩国娱乐,http://tv543.cc/litv.php?id=4gtv-4gtv016
+時尚运动X,http://tv543.cc/litv.php?id=4gtv-4gtv014
 GINX Esports,http://47.239.245.207:5050/litv/4gtv-4gtv053
 智林体育,http://47.239.245.207:5050/litv/4gtv-4gtv101
 TraceSports,http://47.239.245.207:5050/litv/4gtv-4gtv077
@@ -240,13 +246,12 @@ VOA美国之音,http://47.239.245.207:5050/litv/litv-ftv03
 博斯网球,http://47.239.245.207:5050/litv/litv-longturn09
 博斯魅力,http://47.239.245.207:5050/litv/litv-longturn04
 
-台视,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv066
 民视影剧,http://4gtv.mytvsuper.xyz/?id=litv-ftv09
 寰宇新闻,http://4gtv.mytvsuper.xyz/?id=litv-longturn14
 寰宇财经,http://4gtv.mytvsuper.xyz/?id=litv-longturn23
 TVBS综艺,http://4gtv.mytvsuper.xyz/?id=4gtv-live087
 TVBS台剧,http://4gtv.mytvsuper.xyz/?id=4gtv-live088
-八大精彩,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv034
+
 三立综合,http://4gtv.mytvsuper.xyz/?id=4gtv-live207
 三立iNEWS,http://4gtv.mytvsuper.xyz/?id=4gtv-live089
 台视新闻,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv051
@@ -254,8 +259,6 @@ ELTA生活旅游,http://4gtv.mytvsuper.xyz/?id=4gtv-live120
 东森财经新闻,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv153
 公视戏剧,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv042
 影迷数位纪实,http://4gtv.mytvsuper.xyz/?id=4gtv-live023
-影迷数位电影,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv011
-AMC电影,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv017
 CatchPlay电影,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv076
 我的欧洲电影,http://4gtv.mytvsuper.xyz/?id=4gtv-live157
 CinemaWorld,http://4gtv.mytvsuper.xyz/?id=4gtv-live069
@@ -273,7 +276,6 @@ CI罪案侦查,http://4gtv.mytvsuper.xyz/?id=4gtv-live027
 靖洋戏剧,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv045
 靖洋卡通,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv057
 CNBC Asia财经,http://4gtv.mytvsuper.xyz/?id=4gtv-live130
-時尚运动X,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv014
 TraceSports,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv077
 Rock Action,http://4gtv.mytvsuper.xyz/?id=4gtv-live138
 Rock Entertainment,http://4gtv.mytvsuper.xyz/?id=4gtv-live080
@@ -281,7 +283,6 @@ LiveABC互动英语,http://4gtv.mytvsuper.xyz/?id=4gtv-live030
 Lifetime娱乐,http://4gtv.mytvsuper.xyz/?id=4gtv-live029
 MTV Live音乐,http://4gtv.mytvsuper.xyz/?id=4gtv-live025
 Global Trekker,http://4gtv.mytvsuper.xyz/?id=4gtv-live112
-韩国娱乐,http://4gtv.mytvsuper.xyz/?id=4gtv-live377
 LUXE,http://4gtv.mytvsuper.xyz/?id=4gtv-live121
 Pet Club,http://4gtv.mytvsuper.xyz/?id=4gtv-live110
 TV5MONDE Style,http://4gtv.mytvsuper.xyz/?id=4gtv-live122
