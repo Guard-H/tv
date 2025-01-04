@@ -617,7 +617,5 @@ NTV,http://203.75.191.130:8173/VideoInput/play.ts
 惊艳(AV),http://125.227.210.55:8156/VideoInput/play.ts
 麻豆(AV),http://203.75.191.130:51359/VideoInput/play.ts
 
-测试,#genre#
-天映经典,https://pixman.mytvsuper.com.mp/mytvsuper/CCCM
-美亚电影,https://pixman.mytvsuper.com.mp/mytvsuper/CMAM
+
 
