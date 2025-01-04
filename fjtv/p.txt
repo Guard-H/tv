@@ -558,4 +558,3 @@ NTV,http://203.75.191.130:8173/VideoInput/play.ts
 惊艳(AV),http://125.227.210.55:8156/VideoInput/play.ts
 麻豆(AV),http://203.75.191.130:51359/VideoInput/play.ts
 
-緯來體育,p3p://173.208.176.178:31809/5fe16e4c000e45c17788ec964e9c5564
