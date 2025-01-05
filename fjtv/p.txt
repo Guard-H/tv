@@ -190,6 +190,7 @@ ELEVEN体育2,rtmp://60.248.77.68/sat/tv741
 中天亚洲,http://47.239.245.207:5050/litv/4gtv-4gtv109
 寰宇新闻台湾,http://47.239.245.207:5050/litv/litv-longturn15
 亚洲旅游,http://47.239.245.207:5050/litv/4gtv-4gtv076
+亚洲旅游,http://47.239.245.207:5050/litv/litv-longturn17
 TVBS,http://47.239.245.207:5050/litv/4gtv-4gtv073
 TVBS新闻,http://47.239.245.207:5050/litv/4gtv-4gtv072
 TVBS欢乐,http://47.239.245.207:5050/litv/4gtv-4gtv068
@@ -461,7 +462,6 @@ SBN全球财经,http://4gtv.mytvsuper.xyz/?id=4gtv-live060
 国会1,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv084
 国会2,http://4gtv.mytvsuper.xyz/?id=4gtv-4gtv085
 
-亚洲旅游,http://47.239.245.207:5050/litv/litv-longturn17
 靖洋戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv045
 东森财经新闻,http://47.239.245.207:5050/litv/4gtv-4gtv153
 八大精彩,http://47.239.245.207:5050/litv/4gtv-4gtv034
