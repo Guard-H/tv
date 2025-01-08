@@ -529,31 +529,34 @@ CI罪案侦查,http://47.239.245.207:5050/4gtv/215
 经典电影,http://47.239.245.207:5050/4gtv/201
 
 测试,#genre#
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS新闻HD,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+美亚电影(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+i-Fun动漫,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 myTV SUPER,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS新闻HD,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 千禧经典(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 娱乐新闻(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 明珠剧集(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亚电影(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 翡翠剧集(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠综合(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
@@ -563,12 +566,9 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龍华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龍华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-i-Fun动漫,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 viu,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 viu6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 无线新闻(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 Love Nature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
