@@ -544,7 +544,6 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-myTV SUPER,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 千禧经典(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
