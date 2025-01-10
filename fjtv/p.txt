@@ -412,17 +412,18 @@ NTV,http://203.75.191.130:8173/VideoInput/play.ts
 日本A(AV),http://203.75.191.130:8201/VideoInput/play.ts
 日本B(AV),http://203.75.191.130:8205/VideoInput/play.ts
 
+探索,http://61.221.215.25:8800/hls/1/index.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 NHK新闻,http://61.221.215.25:8800/hls/51/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 
 靖洋戏剧,http://47.239.245.207:5050/litv/4gtv-4gtv045
 东森财经新闻,http://47.239.245.207:5050/litv/4gtv-4gtv153
