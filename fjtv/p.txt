@@ -178,7 +178,6 @@ DAZN体育2,rtmp://60.248.77.68/sat/tv741
 中视菁采,http://47.239.245.207:5050/litv/4gtv-4gtv064
 中天新闻,http://47.239.245.207:5050/litv/4gtv-4gtv009
 中天亚洲,http://47.239.245.207:5050/litv/4gtv-4gtv109
-寰宇新闻台湾,http://47.239.245.207:5050/litv/litv-longturn15
 亚洲旅游,http://47.239.245.207:5050/litv/4gtv-4gtv076
 亚洲旅游,http://47.239.245.207:5050/litv/litv-longturn17
 TVBS,http://47.239.245.207:5050/litv/4gtv-4gtv073
@@ -246,6 +245,7 @@ VOA美国之音,http://47.239.245.207:5050/litv/litv-ftv03
 
 民视影剧,http://4gtv.mytvsuper.xyz/?id=litv-ftv09
 寰宇新闻,http://4gtv.mytvsuper.xyz/?id=litv-longturn14
+寰宇新闻台湾,http://4gtv.mytvsuper.xyz/?id=litv-longturn15
 寰宇财经,http://4gtv.mytvsuper.xyz/?id=litv-longturn23
 TVBS综艺,http://4gtv.mytvsuper.xyz/?id=4gtv-live087
 TVBS台剧,http://4gtv.mytvsuper.xyz/?id=4gtv-live088
@@ -440,6 +440,7 @@ AMC电影,http://47.239.245.207:5050/litv/4gtv-4gtv017
 龍华经典,http://47.239.245.207:5050/litv/litv-longturn21
 靖洋卡通,http://47.239.245.207:5050/litv/4gtv-4gtv057
 寰宇新闻,http://47.239.245.207:5050/litv/litv-longturn14
+寰宇新闻台湾,http://47.239.245.207:5050/litv/litv-longturn15
 民视影剧,http://47.239.245.207:5050/litv/litv-ftv09
 台视新闻,http://47.239.245.207:5050/litv/4gtv-4gtv051
 TVBS综艺,http://47.239.245.207:5050/4gtv/284
