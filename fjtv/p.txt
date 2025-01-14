@@ -315,7 +315,16 @@ CI罪案侦查,http://smartv2024.koyeb.app/4gtv/215
 法国·Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 澳大利亚·ABC新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 日本·24新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+日本·NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+韩国·KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+韩国·TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/chunklist_b4692000.m3u8
+韩国·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+泰国·公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+泰国·ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+越南·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+越南·KTV,http://210.245.20.94/hls/ktv1.m3u8
 俄罗斯·BRICS中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+俄罗斯·IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 测试,#genre#
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
