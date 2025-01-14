@@ -150,18 +150,18 @@ CCTV兵器科技,http://222.209.208.234:7088/rtp/239.93.1.235:5140#http://yulang
 凤凰资讯,http://yulang132.cn:4022/rtp/239.93.0.118:2191
 凤凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 
-民视,rtmp://60.248.77.66/sat/tv051
-台视,rtmp://60.248.77.66/sat/tv071
-中视,rtmp://60.248.77.66/sat/tv091
-华视,rtmp://60.248.77.66/sat/tv111
-非凡新闻,rtmp://60.248.77.66/sat/tv581
-纬来体育,rtmp://60.248.77.66/sat/tv721
-纬来育乐,rtmp://60.248.77.66/sat/tv701
-纬来日本,rtmp://60.248.77.66/sat/tv771
-东森超视,rtmp://60.248.77.66/sat/tv331
-MoMo综合,rtmp://60.248.77.66/sat/tv761
-DAZN体育1,rtmp://60.248.77.66/sat/tv731
-DAZN体育2,rtmp://60.248.77.66/sat/tv741
+民视,rtmp://60.248.77.83/sat/tv051
+台视,rtmp://60.248.77.83/sat/tv071
+中视,rtmp://60.248.77.83/sat/tv091
+华视,rtmp://60.248.77.83/sat/tv111
+非凡新闻,rtmp://60.248.77.83/sat/tv581
+纬来体育,rtmp://60.248.77.83/sat/tv721
+纬来育乐,rtmp://60.248.77.83/sat/tv701
+纬来日本,rtmp://60.248.77.83/sat/tv771
+东森超视,rtmp://60.248.77.83/sat/tv331
+MoMo综合,rtmp://60.248.77.83/sat/tv761
+DAZN体育1,rtmp://60.248.77.83/sat/tv731
+DAZN体育2,rtmp://60.248.77.83/sat/tv741
 
 民视,http://smartv2024.koyeb.app/litv/4gtv-4gtv002
 台视,http://tv543.cc/litv.php?id=4gtv-4gtv066
@@ -300,7 +300,7 @@ CI罪案侦查,http://smartv2024.koyeb.app/4gtv/215
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 民视,rtmp://220.130.201.74/sat/tv051
-民视,rtmp://twcdn.top.xiptv.top/sat/tv051
+民视,rtmp://twcdn.top.xiptv.top.fhv8.acc77.net.v2.gdvps.cn.9hv9.mine.nu/sat/tv051
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
