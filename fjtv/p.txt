@@ -509,6 +509,12 @@ Nick Jr.儿童,http://192.168.3.1:5000/4gtv/219
 i-Fun动画,http://192.168.3.1:5000/litv/litv-ftv15
 达文西,http://192.168.3.1:5000/litv/4gtv-4gtv018
 MOMO亲子,http://192.168.3.1:5000/4gtv/231
+History历史,http://192.168.3.1:5000/4gtv/214
+CI罪案侦查,http://192.168.3.1:5000/4gtv/215
+Smart知识,http://192.168.3.1:5000/litv/litv-longturn19
+视纳华仁纪实,http://192.168.3.1:5000/litv/4gtv-4gtv013
+原住民,http://192.168.3.1:5000/4gtv/273
+客家,http://192.168.3.1:5000/litv/4gtv-4gtv043
 LiveABC互动英语,http://192.168.3.1:5000/4gtv/188
 Classica古典乐,http://192.168.3.1:5000/litv/4gtv-4gtv059
 Lifetime娱乐,http://192.168.3.1:5000/4gtv/217
@@ -530,12 +536,6 @@ VOA美国之音,http://192.168.3.1:5000/litv/litv-ftv03
 DW德国之声,http://192.168.3.1:5000/4gtv/226
 SBN全球财经,http://192.168.3.1:5000/4gtv/224
 半岛国际新闻,http://192.168.3.1:5000/litv/litv-ftv10
-History历史,http://192.168.3.1:5000/4gtv/214
-CI罪案侦查,http://192.168.3.1:5000/4gtv/215
-Smart知识,http://192.168.3.1:5000/litv/litv-longturn19
-视纳华仁纪实,http://192.168.3.1:5000/litv/4gtv-4gtv013
-原住民,http://192.168.3.1:5000/4gtv/273
-客家,http://192.168.3.1:5000/litv/4gtv-4gtv043
 滾動力Rollor,http://192.168.3.1:5000/4gtv/249
 儿童卡通,http://192.168.3.1:5000/4gtv/269
 精选动漫,http://192.168.3.1:5000/4gtv/204
