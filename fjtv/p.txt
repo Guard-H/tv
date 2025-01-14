@@ -426,4 +426,134 @@ NHK新闻,http://61.221.215.25:8800/hls/51/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
+民视,http://192.168.3.1:5000/litv/4gtv-4gtv002
+民视第一,http://192.168.3.1:5000/litv/4gtv-4gtv003
+民视新闻,http://192.168.3.1:5000/litv/litv-ftv13
+民视台湾,http://192.168.3.1:5000/litv/4gtv-4gtv001
+民视影剧,http://192.168.3.1:5000/litv/litv-ftv09
+民视旅游,http://192.168.3.1:5000/litv/litv-ftv07
+民视综艺,http://192.168.3.1:5000/litv/4gtv-4gtv004
+中视,http://192.168.3.1:5000/litv/4gtv-4gtv040
+中视新闻,http://192.168.3.1:5000/litv/4gtv-4gtv074
+中视经典,http://192.168.3.1:5000/litv/4gtv-4gtv080
+中视菁采,http://192.168.3.1:5000/litv/4gtv-4gtv064
+中天新闻,http://192.168.3.1:5000/litv/4gtv-4gtv009
+中天亚洲,http://192.168.3.1:5000/litv/4gtv-4gtv109
+华视,http://192.168.3.1:5000/litv/4gtv-4gtv041
+华视新闻,http://192.168.3.1:5000/litv/4gtv-4gtv052
+靖天综合,http://192.168.3.1:5000/litv/4gtv-4gtv046
+靖天国际,http://192.168.3.1:5000/litv/4gtv-4gtv063
+靖天戏剧,http://192.168.3.1:5000/litv/4gtv-4gtv058
+靖天日本,http://192.168.3.1:5000/litv/4gtv-4gtv047
+靖天映画,http://192.168.3.1:5000/litv/4gtv-4gtv055
+靖天卡通,http://192.168.3.1:5000/litv/4gtv-4gtv044
+靖天育乐,http://192.168.3.1:5000/litv/4gtv-4gtv062
+靖天资讯,http://192.168.3.1:5000/litv/4gtv-4gtv065
+靖天电影,http://192.168.3.1:5000/litv/4gtv-4gtv061
+靖天欢乐,http://192.168.3.1:5000/litv/4gtv-4gtv054
+龍华偶像,http://192.168.3.1:5000/litv/litv-longturn12
+龍华卡通,http://192.168.3.1:5000/litv/litv-longturn01
+龍华戏剧,http://192.168.3.1:5000/litv/litv-longturn18
+龍华日韩,http://192.168.3.1:5000/litv/litv-longturn11
+龍华经典,http://192.168.3.1:5000/litv/litv-longturn21
+龍华电影,http://192.168.3.1:5000/litv/litv-longturn03
+靖洋戏剧,http://192.168.3.1:5000/litv/4gtv-4gtv045
+靖洋卡通,http://192.168.3.1:5000/litv/4gtv-4gtv057
+寰宇新闻,http://192.168.3.1:5000/litv/litv-longturn14
+寰宇新闻台湾,http://192.168.3.1:5000/litv/4gtv-4gtv156
+寰宇财经,http://192.168.3.1:5000/litv/4gtv-4gtv158
+TVBS,http://192.168.3.1:5000/litv/4gtv-4gtv073
+TVBS新闻,http://192.168.3.1:5000/litv/4gtv-4gtv072
+TVBS综艺,http://192.168.3.1:5000/4gtv/284
+TVBS欢乐,http://192.168.3.1:5000/litv/4gtv-4gtv068
+TVBS精采,http://192.168.3.1:5000/litv/4gtv-4gtv067
+TVBS台剧,http://192.168.3.1:5000/4gtv/285
+八大精彩,http://192.168.3.1:5000/litv/4gtv-4gtv034
+八大综艺,http://192.168.3.1:5000/litv/4gtv-4gtv039
+三立综合,http://192.168.3.1:5000/4gtv/169
+三立iNEWS,http://192.168.3.1:5000/4gtv/229
+台视,http://192.168.3.1:5000/litv/4gtv-4gtv066
+台视新闻,http://192.168.3.1:5000/litv/4gtv-4gtv051
+台视财经,http://192.168.3.1:5000/litv/4gtv-4gtv056
+ELTA娱乐,http://192.168.3.1:5000/litv/4gtv-4gtv070
+ELTA生活旅游,http://192.168.3.1:5000/4gtv/237
+ELTV生活英语,http://192.168.3.1:5000/litv/litv-longturn20
+东森新闻,http://192.168.3.1:5000/litv/4gtv-4gtv152
+东森财经新闻,http://192.168.3.1:5000/litv/4gtv-4gtv153
+非凡新闻,http://192.168.3.1:5000/litv/4gtv-4gtv010
+非凡商业,http://192.168.3.1:5000/litv/4gtv-4gtv048
+镜新闻,http://192.168.3.1:5000/litv/4gtv-4gtv075
+CNBC Asia财经,http://192.168.3.1:5000/4gtv/235
+亚洲旅游,http://192.168.3.1:5000/litv/4gtv-4gtv076
+GINX Esports,http://192.168.3.1:5000/litv/4gtv-4gtv053
+TechStorm,http://192.168.3.1:5000/4gtv/181
+時尚运动X,http://192.168.3.1:5000/4gtv/277
+智林体育,http://192.168.3.1:5000/litv/4gtv-4gtv101
+TraceSports,http://192.168.3.1:5000/litv/4gtv-4gtv077
+影迷数位纪实,http://192.168.3.1:5000/4gtv/212
+影迷数位电影,http://192.168.3.1:5000/litv/4gtv-4gtv011
+AMC电影,http://192.168.3.1:5000/litv/4gtv-4gtv017
+我的欧洲电影,http://192.168.3.1:5000/4gtv/176
+公视戏剧,http://192.168.3.1:5000/litv/4gtv-4gtv042
+采昌影剧,http://192.168.3.1:5000/litv/4gtv-4gtv049
+台湾戏剧,http://192.168.3.1:5000/litv/litv-longturn22
+CinemaWorld,http://192.168.3.1:5000/4gtv/225
+HITS,http://192.168.3.1:5000/4gtv/186
+Rock Action,http://192.168.3.1:5000/4gtv/180
+Rock Entertainment,http://192.168.3.1:5000/4gtv/275
+金光布袋戏,http://192.168.3.1:5000/4gtv/236
+霹雳布袋戏,http://192.168.3.1:5000/4gtv/301
+梦工厂动画,http://192.168.3.1:5000/4gtv/282
+Nickelodeon,http://192.168.3.1:5000/4gtv/185
+Nick Jr.儿童,http://192.168.3.1:5000/4gtv/219
+i-Fun动画,http://192.168.3.1:5000/litv/litv-ftv15
+达文西,http://192.168.3.1:5000/litv/4gtv-4gtv018
+MOMO亲子,http://192.168.3.1:5000/4gtv/231
+LiveABC互动英语,http://192.168.3.1:5000/4gtv/188
+Classica古典乐,http://192.168.3.1:5000/litv/4gtv-4gtv059
+Lifetime娱乐,http://192.168.3.1:5000/4gtv/217
+MTV Live音乐,http://192.168.3.1:5000/4gtv/213
+Mezzo Live,http://192.168.3.1:5000/litv/4gtv-4gtv083
+Trace Urban,http://192.168.3.1:5000/litv/4gtv-4gtv082
+Global Trekker,http://192.168.3.1:5000/4gtv/252
+韩国娱乐,http://192.168.3.1:5000/litv/4gtv-4gtv016
+LUXE,http://192.168.3.1:5000/4gtv/175
+Pet Club,http://192.168.3.1:5000/4gtv/182
+TV5MONDE Style,http://192.168.3.1:5000/4gtv/178
+车迷,http://192.168.3.1:5000/4gtv/160
+Love Nature,http://192.168.3.1:5000/4gtv/139
+Fun探索娱乐,http://192.168.3.1:5000/4gtv/274
+幸福空间居家,http://192.168.3.1:5000/4gtv/168
+阿里郎韩国,http://192.168.3.1:5000/litv/4gtv-4gtv079
+彭博社,http://192.168.3.1:5000/4gtv/283
+VOA美国之音,http://192.168.3.1:5000/litv/litv-ftv03
+DW德国之声,http://192.168.3.1:5000/4gtv/226
+SBN全球财经,http://192.168.3.1:5000/4gtv/224
+半岛国际新闻,http://192.168.3.1:5000/litv/litv-ftv10
+History历史,http://192.168.3.1:5000/4gtv/214
+CI罪案侦查,http://192.168.3.1:5000/4gtv/215
+Smart知识,http://192.168.3.1:5000/litv/litv-longturn19
+视纳华仁纪实,http://192.168.3.1:5000/litv/4gtv-4gtv013
+原住民,http://192.168.3.1:5000/4gtv/273
+客家,http://192.168.3.1:5000/litv/4gtv-4gtv043
+滾動力Rollor,http://192.168.3.1:5000/4gtv/249
+儿童卡通,http://192.168.3.1:5000/4gtv/269
+精选动漫,http://192.168.3.1:5000/4gtv/204
+经典卡通,http://192.168.3.1:5000/4gtv/202
+电影原声,http://192.168.3.1:5000/4gtv/218
+戏剧免費看1,http://192.168.3.1:5000/4gtv/270
+戏剧免費看2,http://192.168.3.1:5000/4gtv/244
+电影免費看,http://192.168.3.1:5000/4gtv/245
+经典电影,http://192.168.3.1:5000/4gtv/201
+经典剧场,http://192.168.3.1:5000/4gtv/279
+国会1,http://192.168.3.1:5000/litv/4gtv-4gtv084
+国会2,http://192.168.3.1:5000/litv/4gtv-4gtv085
+博斯运动1,http://192.168.3.1:5000/litv/litv-longturn07
+博斯运动2,http://192.168.3.1:5000/litv/litv-longturn08
+博斯无限1,http://192.168.3.1:5000/litv/litv-longturn10
+博斯无限2,http://192.168.3.1:5000/litv/litv-longturn13
+博斯高球1,http://192.168.3.1:5000/litv/litv-longturn05
+博斯高球2,http://192.168.3.1:5000/litv/litv-longturn06
+博斯魅力,http://192.168.3.1:5000/litv/litv-longturn04
+博斯网球,http://192.168.3.1:5000/litv/litv-longturn09
 
