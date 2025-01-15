@@ -311,7 +311,6 @@ CI罪案侦查,http://smartv2024.koyeb.app/4gtv/215
 国际,#genre#
 卡塔尔·半岛新闻,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 美国·NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-美国·CNN新闻,https://video.mytvsuper.xyz/live/684381d7d6d09ce9a05a0c21fed376f3042be4abd417aca7423a663a96106968.php?token=407395546036407
 美国·FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美国·彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 新加坡·亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
