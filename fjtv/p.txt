@@ -72,7 +72,7 @@ CHC家庭影院,http://222.209.208.234:7088/rtp/239.93.42.6:5140
 CHC动作电影,http://222.209.208.234:7088/rtp/239.93.42.7:5140
 CHC影迷电影,http://222.209.208.234:7088/rtp/239.93.42.5:5140
 淘电影,http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.250:8001#http://106.53.99.30/dl/bjyd.php?id=101
-淘Baby,http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.238:8001
+淘Baby,http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.238:8001#http://106.53.99.30/dl/bjyd.php?id=102
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 求索纪录,http://222.209.208.234:7088/rtp/239.93.42.24:5140
 
@@ -323,6 +323,7 @@ CI罪案侦查,http://smartv2024.koyeb.app/4gtv/215
 泰国·ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 越南·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 越南·KTV,http://210.245.20.94/hls/ktv1.m3u8
+阿联酋·迪拜体育,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 俄罗斯·BRICS中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 俄罗斯·IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
