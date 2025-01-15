@@ -436,9 +436,9 @@ NHK新闻,http://61.221.215.25:8800/hls/51/index.m3u8
 
 测试,#genre#
 民视,http://192.168.3.1:5000/litv/4gtv-4gtv002
+台视,http://192.168.3.1:5000/litv/4gtv-4gtv066
 中视,http://192.168.3.1:5000/litv/4gtv-4gtv040
 华视,http://192.168.3.1:5000/litv/4gtv-4gtv041
-台视,http://192.168.3.1:5000/litv/4gtv-4gtv066
 民视第一,http://192.168.3.1:5000/litv/4gtv-4gtv003
 民视新闻,http://192.168.3.1:5000/litv/litv-ftv13
 民视台湾,http://192.168.3.1:5000/litv/4gtv-4gtv001
