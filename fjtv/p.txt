@@ -149,6 +149,9 @@ CCTV兵器科技,http://222.209.208.234:7088/rtp/239.93.1.235:5140#http://yulang
 凤凰中文,http://www.leo-nas.cn:9991/rtp/239.93.0.162:2192
 凤凰资讯,http://yulang132.cn:4022/rtp/239.93.0.118:2191
 凤凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
+凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
 民视,rtmp://60.248.77.83/sat/tv051
 台视,rtmp://60.248.77.83/sat/tv071
