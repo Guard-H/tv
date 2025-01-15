@@ -304,7 +304,7 @@ CI罪案侦查,http://smartv2024.koyeb.app/4gtv/215
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 民视,rtmp://220.130.201.74/sat/tv051
-民视,rtmp://twcdn.top.xiptv.top.fhv8.acc77.net.v2.gdvps.cn.9hv9.mine.nu/sat/tv051
+//民视,twcdn.top  xiptv.top  fhv8.acc77.net  v2.gdvps.cn  9hv9.mine.nu
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
