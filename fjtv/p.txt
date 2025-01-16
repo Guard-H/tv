@@ -201,7 +201,7 @@ Love Nature,http://smartv2024.koyeb.app/4gtv/139
 Fun探索娱乐,http://smartv2024.koyeb.app/4gtv/274
 幸福空间居家,http://smartv2024.koyeb.app/4gtv/168
 阿里郎,http://smartv2024.koyeb.app/litv/4gtv-4gtv079
-Bloomberg,http://smartv2024.koyeb.app/4gtv/283
+彭博财经,http://smartv2024.koyeb.app/4gtv/283
 CMusic,http://smartv2024.koyeb.app/4gtv/218
 DW德国之声,http://smartv2024.koyeb.app/4gtv/226
 SBN全球财经,http://smartv2024.koyeb.app/4gtv/224
@@ -224,8 +224,8 @@ NOW爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 民视,rtmp://60.248.77.83/sat/tv051
 民视,rtmp://220.130.201.74/sat/tv051
 民视,twcdn.top  xiptv.top  fhv8.acc77.net  v2.gdvps.cn  9hv9.mine.nu
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
 国际,#genre#
 卡塔尔·半岛新闻,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
