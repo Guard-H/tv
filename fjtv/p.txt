@@ -410,7 +410,9 @@ VOA美国之音,http://192.168.3.1:5678/litv.php?id=litv-ftv03
 博斯高球2,http://192.168.3.1:5678/litv.php?id=litv-longturn06
 博斯网球,http://192.168.3.1:5678/litv.php?id=litv-longturn09
 博斯魅力,http://192.168.3.1:5678/litv.php?id=litv-longturn04
-
+梦工厂动画,http://192.168.3.1:5678/litv.php?id=4gtv-live017
+Nick Jr.儿童,http://192.168.3.1:5678/litv.php?id=4gtv-live032
+Nickelodeon,http://192.168.3.1:5678/litv.php?id=4gtv-live105
 
 
 
