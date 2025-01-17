@@ -357,7 +357,6 @@ ELTV生活英语,http://192.168.3.1:5678/litv.php?id=litv-longturn20
 Smart知识,http://192.168.3.1:5678/litv.php?id=litv-longturn19
 采昌影剧,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv049
 台湾戏剧,http://192.168.3.1:5678/litv.php?id=litv-longturn22
-霹雳布袋戏,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv145
 i-Fun动漫,http://192.168.3.1:5678/litv.php?id=litv-ftv15
 东森新闻,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv152
 东森财经新闻,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv153
