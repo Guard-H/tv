@@ -346,19 +346,24 @@ Smart知识,http://192.168.3.1:50002/index.m3u8?pid=litv-longturn19
 中天新闻,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv009
 中天亚洲,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv109
 亚洲旅游,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv076
+视纳华仁纪实,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv013
 TVBS,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv073
 TVBS新闻,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv072
 TVBS欢乐,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv068
 TVBS精采,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv067
-八大综艺,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv039
 台视财经,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv056
 ELTA娱乐,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv070
 ELTV生活英语,http://192.168.3.1:5678/litv.php?id=litv-longturn20
 Smart知识,http://192.168.3.1:5678/litv.php?id=litv-longturn19
 采昌影剧,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv049
 台湾戏剧,http://192.168.3.1:5678/litv.php?id=litv-longturn22
+霹雳布袋戏,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv145
 i-Fun动漫,http://192.168.3.1:5678/litv.php?id=litv-ftv15
 东森新闻,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv152
+东森财经新闻,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv153
+寰宇新闻,http://192.168.3.1:5678/litv.php?id=litv-longturn14
+寰宇新闻台湾,http://192.168.3.1:5678/litv.php?id=litv-longturn15
+八大综艺,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv039
 八大精彩,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv034
 公视戏剧,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv042
 影迷数位电影,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv011
@@ -410,9 +415,6 @@ VOA美国之音,http://192.168.3.1:5678/litv.php?id=litv-ftv03
 博斯高球2,http://192.168.3.1:5678/litv.php?id=litv-longturn06
 博斯网球,http://192.168.3.1:5678/litv.php?id=litv-longturn09
 博斯魅力,http://192.168.3.1:5678/litv.php?id=litv-longturn04
-梦工厂动画,http://192.168.3.1:5678/litv.php?id=4gtv-live017
-Nick Jr.儿童,http://192.168.3.1:5678/litv.php?id=4gtv-live032
-Nickelodeon,http://192.168.3.1:5678/litv.php?id=4gtv-live105
 
 
 
