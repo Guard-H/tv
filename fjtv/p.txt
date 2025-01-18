@@ -165,8 +165,8 @@ CCTV兵器科技,http://222.209.208.234:7088/rtp/239.93.1.235:5140#http://yulang
 纬来日本,http://116.93.98.236:8080/sat/tv771.flv
 东森超视,http://116.93.98.236:8080/sat/tv331.flv
 MoMo综合,http://116.93.98.236:8080/sat/tv761.flv
-ELEVEN1,http://116.93.98.236:8080/sat/tv731.flv
-ELEVEN2,http://116.93.98.236:8080/sat/tv741.flv
+DAZN体育1,http://116.93.98.236:8080/sat/tv731.flv
+DAZN体育2,http://116.93.98.236:8080/sat/tv741.flv
 
 TVBS新闻,http://smartv2024.koyeb.app/litv/4gtv-4gtv072
 TVBS综艺,http://smartv2024.koyeb.app/4gtv/284
