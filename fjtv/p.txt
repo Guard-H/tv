@@ -298,6 +298,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 民视台湾,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv001
 民视旅游,http://192.168.3.1:5678/litv.php?id=litv-ftv07
 民视综艺,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv004
+民视影剧,http://192.168.3.1:5678/litv.php?id=litv-ftv09
 中视新闻,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv074
 中视经典,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv080
 中视菁采,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv064
