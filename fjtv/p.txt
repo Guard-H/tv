@@ -207,15 +207,11 @@ History历史,http://smartv2024.koyeb.app/4gtv/214
 CI罪案侦查,http://smartv2024.koyeb.app/4gtv/215
 原住民,http://smartv2024.koyeb.app/4gtv/273
 滚动力,http://smartv2024.koyeb.app/4gtv/249
-儿童卡通,http://smartv2024.koyeb.app/4gtv/269
 精选动漫,http://smartv2024.koyeb.app/4gtv/204
 经典卡通,http://smartv2024.koyeb.app/4gtv/202
-戏剧免费看1,http://smartv2024.koyeb.app/4gtv/270
-戏剧免费看2,http://smartv2024.koyeb.app/4gtv/244
-电影免費看,http://smartv2024.koyeb.app/4gtv/245
+戏剧免费看,http://smartv2024.koyeb.app/4gtv/270
 经典电影,http://smartv2024.koyeb.app/4gtv/201
 
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 NOW爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
