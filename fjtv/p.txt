@@ -321,6 +321,7 @@ i-Fun动漫,http://192.168.3.1:5678/litv.php?id=litv-ftv15
 东森财经新闻,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv153
 寰宇新闻,http://192.168.3.1:5678/litv.php?id=litv-longturn14
 寰宇新闻台湾,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv156
+寰宇财经,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv158
 八大综艺,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv039
 八大精彩,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv034
 公视戏剧,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv042
