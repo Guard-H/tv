@@ -155,6 +155,8 @@ CCTV兵器科技,http://222.209.208.234:7088/rtp/239.93.1.235:5140#http://yulang
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 
+天映经典,http://116.11.156.245:8811/tsfile/live/1063_1.m3u8
+
 民视,http://116.93.98.236:8080/sat/tv051.flv
 台视,http://116.93.98.236:8080/sat/tv071.flv
 中视,http://116.93.98.236:8080/sat/tv091.flv
