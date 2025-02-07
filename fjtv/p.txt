@@ -156,50 +156,6 @@ MoMo综合,http://116.93.98.236:8080/sat/tv761.flv
 DAZN体育1,http://116.93.98.236:8080/sat/tv731.flv
 DAZN体育2,http://116.93.98.236:8080/sat/tv741.flv
 
-TVBS新闻,http://smartv2024.koyeb.app/litv/4gtv-4gtv072
-TVBS综艺,http://smartv2024.koyeb.app/4gtv/284
-TVBS台剧,http://smartv2024.koyeb.app/4gtv/285
-三立综合,http://smartv2024.koyeb.app/4gtv/169
-三立iNEWS,http://smartv2024.koyeb.app/4gtv/229
-ELTA生活旅游,http://smartv2024.koyeb.app/4gtv/237
-CNBC Asia财经,http://smartv2024.koyeb.app/4gtv/235
-时尚运动X,http://smartv2024.koyeb.app/4gtv/277
-影迷数位纪实,http://smartv2024.koyeb.app/4gtv/212
-我的欧洲电影,http://smartv2024.koyeb.app/4gtv/176
-CinemaWorld,http://smartv2024.koyeb.app/4gtv/225
-HITS,http://smartv2024.koyeb.app/4gtv/186
-Rock Action,http://smartv2024.koyeb.app/4gtv/180
-Rock Entertainment,http://smartv2024.koyeb.app/4gtv/275
-金光布袋戏,http://smartv2024.koyeb.app/4gtv/236
-霹雳布袋戏,http://smartv2024.koyeb.app/4gtv/301
-梦工厂动画,http://smartv2024.koyeb.app/4gtv/282
-Nickelodeon,http://smartv2024.koyeb.app/4gtv/185
-Nick Jr.儿童,http://smartv2024.koyeb.app/4gtv/219
-MOMO亲子,http://smartv2024.koyeb.app/4gtv/231
-LiveABC互动英语,http://smartv2024.koyeb.app/4gtv/188
-Lifetime娱乐,http://smartv2024.koyeb.app/4gtv/217
-MTV Live HD音乐,http://smartv2024.koyeb.app/4gtv/213
-Global Trekker,http://smartv2024.koyeb.app/4gtv/252
-LUXE TV,http://smartv2024.koyeb.app/4gtv/175
-Pet Club TV,http://smartv2024.koyeb.app/4gtv/182
-TV5MONDE Style,http://smartv2024.koyeb.app/4gtv/178
-车迷TV,http://smartv2024.koyeb.app/4gtv/160
-Love Nature,http://smartv2024.koyeb.app/4gtv/139
-Fun探索娱乐,http://smartv2024.koyeb.app/4gtv/274
-幸福空间居家,http://smartv2024.koyeb.app/4gtv/168
-彭博财经,http://smartv2024.koyeb.app/4gtv/283
-CMusic,http://smartv2024.koyeb.app/4gtv/218
-DW德国之声,http://smartv2024.koyeb.app/4gtv/226
-SBN全球财经,http://smartv2024.koyeb.app/4gtv/224
-History历史,http://smartv2024.koyeb.app/4gtv/214
-CI罪案侦查,http://smartv2024.koyeb.app/4gtv/215
-原住民,http://smartv2024.koyeb.app/4gtv/273
-滚动力,http://smartv2024.koyeb.app/4gtv/249
-精选动漫,http://smartv2024.koyeb.app/4gtv/204
-经典卡通,http://smartv2024.koyeb.app/4gtv/202
-戏剧免费看,http://smartv2024.koyeb.app/4gtv/270
-经典电影,http://smartv2024.koyeb.app/4gtv/201
-
 NOW爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
@@ -446,4 +402,51 @@ VOA美国之音,http://192.168.3.1:5678/litv.php?id=litv-ftv03
 博斯高球2,http://192.168.3.1:5678/litv.php?id=litv-longturn06
 博斯网球,http://192.168.3.1:5678/litv.php?id=litv-longturn09
 博斯魅力,http://192.168.3.1:5678/litv.php?id=litv-longturn04
+
+TVBS新闻,http://smartv2024.koyeb.app/litv/4gtv-4gtv072
+TVBS综艺,http://smartv2024.koyeb.app/4gtv/284
+TVBS台剧,http://smartv2024.koyeb.app/4gtv/285
+三立综合,http://smartv2024.koyeb.app/4gtv/169
+三立iNEWS,http://smartv2024.koyeb.app/4gtv/229
+ELTA生活旅游,http://smartv2024.koyeb.app/4gtv/237
+CNBC Asia财经,http://smartv2024.koyeb.app/4gtv/235
+时尚运动X,http://smartv2024.koyeb.app/4gtv/277
+影迷数位纪实,http://smartv2024.koyeb.app/4gtv/212
+我的欧洲电影,http://smartv2024.koyeb.app/4gtv/176
+CinemaWorld,http://smartv2024.koyeb.app/4gtv/225
+HITS,http://smartv2024.koyeb.app/4gtv/186
+Rock Action,http://smartv2024.koyeb.app/4gtv/180
+Rock Entertainment,http://smartv2024.koyeb.app/4gtv/275
+金光布袋戏,http://smartv2024.koyeb.app/4gtv/236
+霹雳布袋戏,http://smartv2024.koyeb.app/4gtv/301
+梦工厂动画,http://smartv2024.koyeb.app/4gtv/282
+Nickelodeon,http://smartv2024.koyeb.app/4gtv/185
+Nick Jr.儿童,http://smartv2024.koyeb.app/4gtv/219
+MOMO亲子,http://smartv2024.koyeb.app/4gtv/231
+LiveABC互动英语,http://smartv2024.koyeb.app/4gtv/188
+Lifetime娱乐,http://smartv2024.koyeb.app/4gtv/217
+MTV Live HD音乐,http://smartv2024.koyeb.app/4gtv/213
+Global Trekker,http://smartv2024.koyeb.app/4gtv/252
+LUXE TV,http://smartv2024.koyeb.app/4gtv/175
+Pet Club TV,http://smartv2024.koyeb.app/4gtv/182
+TV5MONDE Style,http://smartv2024.koyeb.app/4gtv/178
+车迷TV,http://smartv2024.koyeb.app/4gtv/160
+Love Nature,http://smartv2024.koyeb.app/4gtv/139
+Fun探索娱乐,http://smartv2024.koyeb.app/4gtv/274
+幸福空间居家,http://smartv2024.koyeb.app/4gtv/168
+彭博财经,http://smartv2024.koyeb.app/4gtv/283
+CMusic,http://smartv2024.koyeb.app/4gtv/218
+DW德国之声,http://smartv2024.koyeb.app/4gtv/226
+SBN全球财经,http://smartv2024.koyeb.app/4gtv/224
+History历史,http://smartv2024.koyeb.app/4gtv/214
+CI罪案侦查,http://smartv2024.koyeb.app/4gtv/215
+原住民,http://smartv2024.koyeb.app/4gtv/273
+滚动力,http://smartv2024.koyeb.app/4gtv/249
+精选动漫,http://smartv2024.koyeb.app/4gtv/204
+经典卡通,http://smartv2024.koyeb.app/4gtv/202
+戏剧免费看,http://smartv2024.koyeb.app/4gtv/270
+经典电影,http://smartv2024.koyeb.app/4gtv/201
+
+
+
 
