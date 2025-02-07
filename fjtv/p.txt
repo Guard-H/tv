@@ -132,18 +132,16 @@ CCTV兵器科技,http://222.209.208.234:7088/rtp/239.93.1.235:5140#http://yulang
 港台,#genre#
 凤凰资讯,http://222.209.208.234:7088/rtp/239.93.0.118:2191
 凤凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
-凤凰资讯,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.118:2191
-凤凰中文,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.162:2192
-凤凰资讯,http://youankj.synology.me:8888/rtp/239.93.0.118:2191
-凤凰中文,http://youankj.synology.me:8888/rtp/239.93.0.162:2192
-凤凰资讯,http://www.leo-nas.cn:9991/rtp/239.93.0.118:2191
-凤凰中文,http://www.leo-nas.cn:9991/rtp/239.93.0.162:2192
-凤凰资讯,http://yulang132.cn:4022/rtp/239.93.0.118:2191
-凤凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
-凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰资讯,http://yulang132.cn:4022/rtp/239.93.0.118:2191
+凤凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
+凤凰资讯,http://dsm.ccb912.top:9998/rtp/239.93.0.118:2191
+凤凰中文,http://dsm.ccb912.top:9998/rtp/239.93.0.118:2192
+凤凰资讯,http://171.213.205.99:8000/rtp/239.93.0.118:2191
+凤凰中文,http://171.213.205.99:8000/rtp/239.93.0.118:2192
+凤凰资讯,http://home.sunruilin.com:4443/rtp/239.93.0.118:2191
+凤凰中文,http://home.sunruilin.com:4443/rtp/239.93.0.118:2192
 
 民视,http://116.93.98.236:8080/sat/tv051.flv
 台视,http://116.93.98.236:8080/sat/tv071.flv
