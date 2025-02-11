@@ -148,18 +148,6 @@ MoMo综合,http://116.93.98.236:8080/sat/tv761.flv
 DAZN体育1,http://116.93.98.236:8080/sat/tv731.flv
 DAZN体育2,http://116.93.98.236:8080/sat/tv741.flv
 
-爱尔达体育1,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-爱尔达体育2,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-亚洲旅游,http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c#http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8#http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e#http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6#http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-爱尔达影剧,http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
-HBO原创钜献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb#http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-TLC旅游生活,http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
-靖天国际,http://50.7.234.10:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-HBO强档钜献,http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93#http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-龙华电影,http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-地理野生动物,http://50.7.234.10:8278/natgeowildtamil_raj/playlist.m3u8?tid=MA3A7576802775768027&ct=19249&tsum=38e4069aeedc94944ccb5122c294c939
-
 NOW爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVBJ2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
