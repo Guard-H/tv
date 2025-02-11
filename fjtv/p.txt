@@ -442,6 +442,10 @@ CI罪案侦查,http://smartv2024.koyeb.app/4gtv/215
 戏剧免费看,http://smartv2024.koyeb.app/4gtv/270
 经典电影,http://smartv2024.koyeb.app/4gtv/201
 
+测试④,#genre#
+三立綜合,http://192.168.3.1:5678/4gtv.php?id=4gtv-live207&pid=169
+TVB台剧,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=285&re=1080.m3u8
+
 
 
 
