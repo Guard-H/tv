@@ -310,49 +310,6 @@ GinxTV,http://bk.msbot.us.kg/litv.php?id=4gtv-4gtv053
 博斯无限,http://bk.msbot.us.kg/litv.php?id=litv-longturn10
 博斯无限2,http://bk.msbot.us.kg/litv.php?id=litv-longturn13
 
-TVBS综艺,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=284&re=1080.m3u8
-TVBS台剧,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=285&re=1080.m3u8
-三立综合,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=169&re=1080.m3u8
-三立iNEWS,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=229&re=1080.m3u8
-ELTA生活旅游,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=237&re=1080.m3u8
-CNBC Asia财经,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=235&re=1080.m3u8
-时尚运动X,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=277&re=1080.m3u8
-影迷数位纪实,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=212&re=1080.m3u8
-我的欧洲电影,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=176&re=1080.m3u8
-CinemaWorld,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=225&re=1080.m3u8
-HITS,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=186&re=1080.m3u8
-Rock Action,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=180&re=1080.m3u8
-Rock Entertainment,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=275&re=1080.m3u8
-金光布袋戏,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=236&re=1080.m3u8
-霹雳布袋戏,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=301&re=1080.m3u8
-梦工厂动画,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=282&re=1080.m3u8
-Nickelodeon,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=185&re=1080.m3u8
-Nick Jr.儿童,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=219&re=1080.m3u8
-MOMO亲子,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=231&re=1080.m3u8
-LiveABC互动英语,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=188&re=1080.m3u8
-Lifetime娱乐,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=217&re=1080.m3u8
-MTV Live HD音乐,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=213&re=1080.m3u8
-Global Trekker,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=252&re=1080.m3u8
-LUXE TV,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=175&re=1080.m3u8
-Pet Club TV,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=182&re=1080.m3u8
-TV5MONDE Style,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=178&re=1080.m3u8
-车迷TV,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=160&re=1080.m3u8
-Love Nature,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=139&re=1080.m3u8
-Fun探索娱乐,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=274&re=1080.m3u8
-幸福空间居家,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=168&re=1080.m3u8
-彭博财经,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=283&re=1080.m3u8
-CMusic,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=218&re=1080.m3u8
-DW德国之声,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=226&re=1080.m3u8
-SBN全球财经,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=224&re=1080.m3u8
-History历史,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=214&re=1080.m3u8
-CI罪案侦查,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=215&re=1080.m3u8
-原住民,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=273&re=1080.m3u8
-滚动力,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=249&re=1080.m3u8
-精选动漫,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=204&re=1080.m3u8
-经典卡通,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=202&re=1080.m3u8
-戏剧免费看,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=270&re=1080.m3u8
-经典电影,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=201&re=1080.m3u8
-
 测试③,#genre#
 民视,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv002
 台视,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv066
