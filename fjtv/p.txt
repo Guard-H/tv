@@ -442,5 +442,4 @@ CI罪案侦查,http://192.168.3.1:5678/4gtv.php?id=4gtv-live027&pid=215
 经典电影,http://192.168.3.1:5678/4gtv.php?id=4gtv-live021&pid=201
 
 测试④,#genre#
-TVBS綜藝台,https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284
-TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
+
