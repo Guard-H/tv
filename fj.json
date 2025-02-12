@@ -17,7 +17,6 @@
 {"key":"UC","name":"优汐｜网盘","type":3,"api":"csp_UuSs","jar":"https://slink.ltd/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"电影港","name":"电影港｜磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://slink.ltd/https://raw.githubusercontent.com/Guard-H/tv/main/file/DYG.json"},
 
-
 {"key":"热播弹幕","name":"热播｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YucmJvdHYuY24="}},
 {"key":"浪酷弹幕","name":"浪酷｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="}},
 {"key":"天天弹幕","name":"天天｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL29wLnlzZHFqcy5jbg=="}},
@@ -26,7 +25,8 @@
 {"key":"文才弹幕","name":"文才｜弹幕","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"奇优影视","name":"奇优｜影视","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dyxz2.com/"},
 {"key":"农民影视","name":"农民｜影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"南瓜弹幕","name":"南瓜｜影视","type":3,"api":"csp_NanGua","jar":"http://我不是.摸鱼儿.com/by/jar/PizazzGY.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppNG","name":"南瓜｜影视","type":3,"api":"csp_AppNG","jar":"https://slink.ltd/https://raw.githubusercontent.com/Guard-H/tv/main/file/DEMO.jar"},
+//{"key":"南瓜弹幕","name":"南瓜｜影视","type":3,"api":"csp_NanGua","jar":"http://我不是.摸鱼儿.com/by/jar/PizazzGY.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"原创","name":"原创｜影视","type":3,"api":"csp_YCyz","jar":"https://slink.ltd/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"比特","name":"比特｜影视","type":3,"api":"csp_Bttwoo","jar":"https://slink.ltd/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"萌米","name":"萌米｜影视","type":3,"api":"csp_AppTT","jar":"https://slink.ltd/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
