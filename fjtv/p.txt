@@ -74,7 +74,7 @@ CHC影迷电影,http://roxette119.asuscomm.com:5555/rtp/239.93.42.5:5140
 淘电影,http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.250:8001
 淘Baby,http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.238:8001
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-求索纪录,http://222.209.208.234:7088/rtp/239.93.42.24:5140
+求索纪录,http://roxette119.asuscomm.com:5555/rtp/239.93.42.24:5140
 
 CCTV兵器科技,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.88:8000
 CCTV第一剧场,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.94:8000
