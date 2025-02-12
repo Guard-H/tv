@@ -444,6 +444,7 @@ CI罪案侦查,http://192.168.3.1:5678/4gtv.php?id=4gtv-live027&pid=215
 
 测试④,#genre#
 公视,http://fm1077.serv00.net/Smart.php?id=ctv_taiwan
+美食星球1,http://192.168.2.1:5678/Smartv.php?id=foodplanet_twn
 美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
 爱尔达体育1,http://fm1077.serv00.net/Smart.php?id=eltasport_twn
 爱尔达体育2,http://fm1077.serv00.net/Smart.php?id=eltasport2_twn
