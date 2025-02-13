@@ -311,49 +311,6 @@ VOA美国之音,http://192.168.3.1:5678/litv.php?id=litv-ftv03
 博斯网球,http://192.168.3.1:5678/litv.php?id=litv-longturn09
 博斯魅力,http://192.168.3.1:5678/litv.php?id=litv-longturn04
 
-TVBS综艺,http://192.168.3.1:5678/4gtv.php?id=4gtv-live087&pid=284
-TVBS台剧,http://192.168.3.1:5678/4gtv.php?id=4gtv-live088&pid=285
-三立综合,http://192.168.3.1:5678/4gtv.php?id=4gtv-live207&pid=169
-三立iNEWS,http://192.168.3.1:5678/4gtv.php?id=4gtv-live089&pid=229
-ELTA生活旅游,http://192.168.3.1:5678/4gtv.php?id=4gtv-live120&pid=237
-CNBC Asia财经,http://192.168.3.1:5678/4gtv.php?id=4gtv-live130&pid=235
-时尚运动X,http://192.168.3.1:5678/4gtv.php?id=4gtv-live411&pid=277
-影迷数位纪实,http://192.168.3.1:5678/4gtv.php?id=4gtv-live023&pid=212
-我的欧洲电影,http://192.168.3.1:5678/4gtv.php?id=4gtv-live157&pid=176
-CinemaWorld,http://192.168.3.1:5678/4gtv.php?id=4gtv-live069&pid=225
-HITS,http://192.168.3.1:5678/4gtv.php?id=4gtv-live620&pid=186
-Rock Action,http://192.168.3.1:5678/4gtv.php?id=4gtv-live138&pid=180
-Rock Entertainment,http://192.168.3.1:5678/4gtv.php?id=4gtv-live080&pid=275
-金光布袋戏,http://192.168.3.1:5678/4gtv.php?id=4gtv-live144&pid=236
-霹雳布袋戏,http://192.168.3.1:5678/4gtv.php?id=4gtv-live145&pid=301
-梦工厂动画,http://192.168.3.1:5678/4gtv.php?id=4gtv-live017&pid=282
-Nickelodeon,http://192.168.3.1:5678/4gtv.php?id=4gtv-live105&pid=185
-Nick Jr.儿童,http://192.168.3.1:5678/4gtv.php?id=4gtv-live032&pid=219
-MOMO亲子,http://192.168.3.1:5678/4gtv.php?id=4gtv-live107&pid=231
-LiveABC互动英语,http://192.168.3.1:5678/4gtv.php?id=4gtv-live030&pid=188
-Lifetime娱乐,http://192.168.3.1:5678/4gtv.php?id=4gtv-live031&pid=217
-MTV Live HD音乐,http://192.168.3.1:5678/4gtv.php?id=4gtv-live025&pid=213
-Global Trekker,http://192.168.3.1:5678/4gtv.php?id=4gtv-live112&pid=252
-LUXE TV,http://192.168.3.1:5678/4gtv.php?id=4gtv-live121&pid=175
-Pet Club TV,http://192.168.3.1:5678/4gtv.php?id=4gtv-live110&pid=182
-TV5MONDE Style,http://192.168.3.1:5678/4gtv.php?id=4gtv-live122&pid=178
-车迷TV,http://192.168.3.1:5678/4gtv.php?id=4gtv-live201&pid=160
-Love Nature,http://192.168.3.1:5678/4gtv.php?id=4gtv-live208&pid=139
-Fun探索娱乐,http://192.168.3.1:5678/4gtv.php?id=4gtv-live011&pid=274
-幸福空间居家,http://192.168.3.1:5678/4gtv.php?id=4gtv-live206&pid=168
-彭博财经,http://192.168.3.1:5678/4gtv.php?id=4gtv-live059&pid=283
-CMusic,http://192.168.3.1:5678/4gtv.php?id=4gtv-live031&pid=218
-DW德国之声,http://192.168.3.1:5678/4gtv.php?id=4gtv-live071&pid=226
-SBN全球财经,http://192.168.3.1:5678/4gtv.php?id=4gtv-live060&pid=224
-History历史,http://192.168.3.1:5678/4gtv.php?id=4gtv-live026&pid=214
-CI罪案侦查,http://192.168.3.1:5678/4gtv.php?id=4gtv-live027&pid=215
-原住民,http://192.168.3.1:5678/4gtv.php?id=4gtv-live014&pid=273
-滚动力,http://192.168.3.1:5678/4gtv.php?id=4gtv-live012&pid=249
-精选动漫,http://192.168.3.1:5678/4gtv.php?id=4gtv-live024&pid=204
-经典卡通,http://192.168.3.1:5678/4gtv.php?id=4gtv-live022&pid=202
-戏剧免费看,http://192.168.3.1:5678/4gtv.php?id=4gtv-live010&pid=270
-经典电影,http://192.168.3.1:5678/4gtv.php?id=4gtv-live021&pid=201
-
 测试③,#genre#
 TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVBJ2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
