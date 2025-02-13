@@ -158,7 +158,8 @@ MoMo综合,http://116.93.98.236:8080/sat/tv761.flv
 DAZN体育1,http://116.93.98.236:8080/sat/tv731.flv
 DAZN体育2,http://116.93.98.236:8080/sat/tv741.flv
 
-NOW爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVBJ2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 HOY,http://cdn.132.us.kg/live/hoy/stream.m3u8
@@ -167,8 +168,6 @@ HOY,http://cdn.132.us.kg/live/hoy/stream.m3u8
 民视,rtmp://60.248.77.83/sat/tv051
 民视,rtmp://220.130.201.74/sat/tv051
 民视,twcdn.top  xiptv.top  fhv8.acc77.net  v2.gdvps.cn  9hv9.mine.nu
-大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
 国际,#genre#
 卡塔尔·半岛新闻,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
@@ -176,14 +175,14 @@ HOY,http://cdn.132.us.kg/live/hoy/stream.m3u8
 美国·FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美国·彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 新加坡·亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-加拿大·Global新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-法国·Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-澳大利亚·ABC新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 日本·24新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 日本·NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 韩国·KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 韩国·TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/chunklist_b4692000.m3u8
 韩国·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+加拿大·Global新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+法国·Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+澳大利亚·ABC新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 泰国·公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 泰国·ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 越南·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
@@ -397,7 +396,6 @@ Trace Urban,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv082
 VOA美国之音,http://192.168.3.1:5678/litv.php?id=litv-ftv03
 半岛国际新闻,http://192.168.3.1:5678/litv.php?id=litv-ftv10
 阿里郎,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv079
-韩国娱乐,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv016
 国会1,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv084
 国会2,http://192.168.3.1:5678/litv.php?id=4gtv-4gtv085
 博斯运动1,http://192.168.3.1:5678/litv.php?id=litv-longturn07
