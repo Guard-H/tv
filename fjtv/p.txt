@@ -160,14 +160,6 @@ DAZN体育2,http://116.93.98.236:8080/sat/tv741.flv
 
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
-TVBJ2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
-HOY,http://cdn.132.us.kg/live/hoy/stream.m3u8
-台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
-民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
-民视,rtmp://60.248.77.83/sat/tv051
-民视,rtmp://220.130.201.74/sat/tv051
-民视,twcdn.top  xiptv.top  fhv8.acc77.net  v2.gdvps.cn  9hv9.mine.nu
 
 国际,#genre#
 卡塔尔·半岛新闻,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
@@ -363,4 +355,13 @@ CI罪案侦查,http://192.168.3.1:5678/4gtv.php?id=4gtv-live027&pid=215
 经典电影,http://192.168.3.1:5678/4gtv.php?id=4gtv-live021&pid=201
 
 测试③,#genre#
+TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
+TVBJ2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+HOY,http://cdn.132.us.kg/live/hoy/stream.m3u8
+台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
+民视,rtmp://60.248.77.83/sat/tv051
+民视,rtmp://220.130.201.74/sat/tv051
+民视,twcdn.top  xiptv.top  fhv8.acc77.net  v2.gdvps.cn  9hv9.mine.nu
+
 
