@@ -89,9 +89,6 @@ CCTV央视台球,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.32:8000
 CCTV高尔夫网球,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.86:8000
 CCTV电视指南,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.84:8000
 
-CCTV兵器科技,http://222.209.208.234:7088/rtp/239.93.1.235:5140#http://yulang132.cn:4022/rtp/239.93.1.235:5140
-
-纪实人文,
 动漫秀场,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.43:8028
 欢笑剧场,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.47:8060
 都市剧场,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.45:8044
@@ -157,7 +154,7 @@ MoMo综合,http://116.93.98.236:8080/sat/tv761.flv
 DAZN体育1,http://116.93.98.236:8080/sat/tv731.flv
 DAZN体育2,http://116.93.98.236:8080/sat/tv741.flv
 
-天映经典,http://120.84.121.92:808/hls/85/index.m3u8
+天映经典,http://120.84.121.98:808/hls/85/index.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
