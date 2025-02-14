@@ -314,7 +314,6 @@ TVBS台剧,https://4gtv.luckytv.us.kg/?id=4gtv-live088&pid=285&re=1080.m3u8
 ELTA生活旅游,https://4gtv.luckytv.us.kg/?id=4gtv-live120&pid=237&re=1080.m3u8
 CNBC Asia财经,https://4gtv.luckytv.us.kg/?id=4gtv-live130&pid=235&re=1080.m3u8
 时尚运动X,https://4gtv.luckytv.us.kg/?id=4gtv-live411&pid=277&re=1080.m3u8
-影迷数位纪实,https://4gtv.luckytv.us.kg/?id=4gtv-live023&pid=212&re=1080.m3u8
 我的欧洲电影,https://4gtv.luckytv.us.kg/?id=4gtv-live157&pid=176&re=1080.m3u8
 CinemaWorld,https://4gtv.luckytv.us.kg/?id=4gtv-live069&pid=225&re=1080.m3u8
 HITS,https://4gtv.luckytv.us.kg/?id=4gtv-live620&pid=186&re=1080.m3u8
@@ -328,12 +327,12 @@ Nick Jr.儿童,https://4gtv.luckytv.us.kg/?id=4gtv-live032&pid=219&re=1080.m3u8
 MOMO亲子,https://4gtv.luckytv.us.kg/?id=4gtv-live107&pid=231&re=1080.m3u8
 LiveABC互动英语,https://4gtv.luckytv.us.kg/?id=4gtv-live030&pid=188&re=1080.m3u8
 Lifetime娱乐,https://4gtv.luckytv.us.kg/?id=4gtv-live031&pid=217&re=1080.m3u8
-MTV Live HD音乐,https://4gtv.luckytv.us.kg/?id=4gtv-live025&pid=213&re=1080.m3u8
+MTV Live音乐,https://4gtv.luckytv.us.kg/?id=4gtv-live025&pid=213&re=1080.m3u8
 Global Trekker,https://4gtv.luckytv.us.kg/?id=4gtv-live112&pid=252&re=1080.m3u8
-LUXE TV,https://4gtv.luckytv.us.kg/?id=4gtv-live121&pid=175&re=1080.m3u8
-Pet Club TV,https://4gtv.luckytv.us.kg/?id=4gtv-live110&pid=182&re=1080.m3u8
+LUXE,https://4gtv.luckytv.us.kg/?id=4gtv-live121&pid=175&re=1080.m3u8
+Pet Club,https://4gtv.luckytv.us.kg/?id=4gtv-live110&pid=182&re=1080.m3u8
 TV5MONDE Style,https://4gtv.luckytv.us.kg/?id=4gtv-live122&pid=178&re=1080.m3u8
-车迷TV,https://4gtv.luckytv.us.kg/?id=4gtv-live201&pid=160&re=1080.m3u8
+车迷,https://4gtv.luckytv.us.kg/?id=4gtv-live201&pid=160&re=1080.m3u8
 Love Nature,https://4gtv.luckytv.us.kg/?id=4gtv-live208&pid=139&re=1080.m3u8
 Fun探索娱乐,https://4gtv.luckytv.us.kg/?id=4gtv-live011&pid=274&re=1080.m3u8
 幸福空间居家,https://4gtv.luckytv.us.kg/?id=4gtv-live206&pid=168&re=1080.m3u8
