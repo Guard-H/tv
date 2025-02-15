@@ -74,9 +74,9 @@
       'fhzw' => 'fhzwhd_2000', //凤凰中文高清
       'fhzx' => 'fhzxhd_2000', //凤凰资讯高清
       ];
-  $user = 'freeuser';
-  $ptoken = 'MDc1NDNkMDZkNzdmNmNmOA==';
-  $l = 'EJbaFsNCT7QZ1ciU7DGwmA==';
+  $user = 'freeuser';//抓包获取
+  $ptoken = 'MDc1NDNkMDZkNzdmNmNmOA==';//抓包获取
+  $l = 'EJbaFsNCT7QZ1ciU7DGwmA==';//抓包获取
   $t = time();
   $nonce = rand(100000,999999);
   $str = 'sumasalt-app-portalpVW4U*FlS'.$t.$nonce.$user;
