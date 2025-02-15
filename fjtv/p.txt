@@ -180,8 +180,7 @@ DAZN体育2,http://116.93.98.236:8080/sat/tv741.flv
 俄罗斯·IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 测试①,#genre#
-TVBS新闻HD,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-TVBS新闻SD,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 美亚电影(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
