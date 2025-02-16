@@ -68,10 +68,10 @@ CGTN俄语,rtsp://220.200.30.136/PLTV/88888909/224/3221225852/100001000000000600
 山东教育,rtsp://112.111.36.140/PLTV/88888909/224/3221225705/10000100000000060000000000391773_0.smil
 
 数字,#genre#
-CHC家庭影院,http://roxette119.asuscomm.com:5555/rtp/239.93.42.6:5140
-CHC动作电影,http://roxette119.asuscomm.com:5555/rtp/239.93.42.7:5140
-CHC影迷电影,http://roxette119.asuscomm.com:5555/rtp/239.93.42.5:5140
-求索纪录,http://roxette119.asuscomm.com:5555/rtp/239.93.42.24:5140
+CHC家庭影院,http://222.209.208.234:7088/rtp/239.93.42.6:5140
+CHC动作电影,http://222.209.208.234:7088/rtp/239.93.42.7:5140
+CHC影迷电影,http://222.209.208.234:7088/rtp/239.93.42.5:5140
+求索纪录,http://222.209.208.234:7088/rtp/239.93.42.24:5140
 淘电影,http://mingjd.cn:7077/rtp/239.3.1.250:8001#http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.250:8001
 淘Baby,http://mingjd.cn:7077/rtp/239.3.1.238:8001
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -95,12 +95,6 @@ CCTV电视指南,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.84:8000
 生活时尚,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.40:8004
 游戏风云,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.41:8012
 乐游纪实,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.44:8036
-
-欢笑剧场,http://roxette119.asuscomm.com:5555/rtp/239.93.0.145:5140
-都市剧场,http://roxette119.asuscomm.com:5555/rtp/239.93.42.30:5140
-生活时尚,http://roxette119.asuscomm.com:5555/rtp/239.93.42.29:5140
-动漫秀场,http://roxette119.asuscomm.com:5555/rtp/239.93.42.93:5140
-乐游纪实,http://roxette119.asuscomm.com:5555/rtp/239.93.42.94:5140
 
 金鹰纪实,rtsp://220.200.30.136/PLTV/88888909/224/3221225682/10000100000000060000000000390143_0.smil
 北京纪实,rtsp://58.22.135.11:554/PLTV/88888909/224/3221225989/390009032.smil
@@ -133,12 +127,12 @@ CCTV电视指南,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.84:8000
 平潭-1,rtsp://220.200.30.136/PLTV/88888909/224/3221225973/10000100000000060000000003881064_0.smil
 
 港台,#genre#
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰资讯,http://roxette119.asuscomm.com:5555/rtp/239.93.0.118:2191
 凤凰中文,http://roxette119.asuscomm.com:5555/rtp/239.93.0.162:2192
 凤凰资讯,http://dsm.ccb912.top:9998/rtp/239.93.0.118:2191
-凤凰中文,http://dsm.ccb912.top:9998/rtp/239.93.0.162:2192
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+凤凰中文,http://dsm.ccb912.top:9998/rtp/239.93.0.162:219
 凤凰资讯,http://222.209.208.234:7088/rtp/239.93.0.118:2191
 凤凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
 
@@ -154,7 +148,7 @@ MoMo综合,http://116.93.98.236:8080/sat/tv761.flv
 DAZN体育1,http://116.93.98.236:8080/sat/tv731.flv
 DAZN体育2,http://116.93.98.236:8080/sat/tv741.flv
 
-天映经典,http://120.84.121.112:808/hls/85/index.m3u8
+天映经典,http://120.84.121.105:808/hls/85/index.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
