@@ -78,9 +78,9 @@ CHC影迷电影,http://ndnas.top:3300/udp/225.1.4.207:1260
 淘电影,http://mingjd.cn:7077/rtp/239.3.1.250:8001#http://naslmd.myqnapcloud.com:4022/rtp/239.3.1.250:8001
 淘Baby,http://mingjd.cn:7077/rtp/239.3.1.238:8001
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-求索纪录,http://38.207.172.44:50002/TVOD/6000000002000032052/wasusyt/index.m3u8
-五星体育,http://38.207.172.44:50002/TVOD/5000000010000017540/bestzb/index.m3u8
-劲爆体育,http://38.207.172.44:50002/TVOD/5000000002000029972/bestzb/index.m3u8
+求索纪录,http://14.19.202.59:5555/TVOD/6000000002000032052/wasusyt/index.m3u8
+五星体育,http://14.19.202.59:5555/TVOD/5000000010000017540/bestzb/index.m3u8
+劲爆体育,http://14.19.202.59:5555/TVOD/5000000002000029972/bestzb/index.m3u8
 
 CCTV兵器科技,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.88:8000
 CCTV第一剧场,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.94:8000
@@ -154,7 +154,6 @@ MoMo综合,http://116.93.98.236:8080/sat/tv761.flv
 DAZN体育1,http://116.93.98.236:8080/sat/tv731.flv
 DAZN体育2,http://116.93.98.236:8080/sat/tv741.flv
 
-天映经典,http://120.84.121.163:808/hls/85/index.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
@@ -347,7 +346,7 @@ HOY,http://cdn.132.us.kg/live/hoy/stream.m3u8
 民视,rtmp://60.248.77.83/sat/tv051
 民视,rtmp://220.130.201.74/sat/tv051
 民视,twcdn.top  xiptv.top  fhv8.acc77.net  v2.gdvps.cn  9hv9.mine.nu
-
+天映经典,http://120.84.121.163:808/hls/85/index.m3u8
 
 
 
