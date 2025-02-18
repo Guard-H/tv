@@ -30,8 +30,7 @@
 {"key":"奇优影视","name":"奇优｜影视","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dyxz2.com/"},
 {"key":"原创","name":"原创｜影视","type":3,"api":"csp_YCyz","jar":"https://slink.ltd/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"比特","name":"比特｜影视","type":3,"api":"csp_Bttwoo","jar":"https://slink.ltd/https://raw.githubusercontent.com/Guard-H/tv/main/file/fan.txt","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"南瓜弹幕","name":"南瓜｜影视","type":3,"api":"csp_NanGua","jar":"http://我不是.摸鱼儿.com/by/jar/PizazzGY.php","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_AppNG","name":"南瓜｜影视","type":3,"api":"csp_AppNG","jar":"https://slink.ltd/https://raw.githubusercontent.com/Guard-H/tv/main/file/DEMO.jar"},
+{"key":"csp_AppNG","name":"南瓜｜影视","type":3,"api":"csp_AppNG","jar":"https://slink.ltd/https://raw.githubusercontent.com/Guard-H/tv/main/file/DEMO.jar"},
 
 {"key":"push_agent","name":"推送｜云盘","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true}},
 {"key":"Jrsjs","name":"JRK球赛｜体育","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
