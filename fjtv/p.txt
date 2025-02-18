@@ -79,6 +79,8 @@ CHC影迷电影,http://ndnas.top:3300/udp/225.1.4.207:1260
 淘Baby,http://mingjd.cn:7077/rtp/239.3.1.238:8001
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 求索纪录,http://38.207.172.44:50002/TVOD/6000000002000032052/wasusyt/index.m3u8
+求索纪录,http://175.138.74.22:8080/TVOD/6000000002000032052/wasusyt/index.m3u8
+求索纪录,http://58.208.177.235:5000/TVOD/6000000002000032052/wasusyt/index.m3u8
 五星体育,http://38.207.172.44:50002/TVOD/5000000010000017540/bestzb/index.m3u8
 劲爆体育,http://38.207.172.44:50002/TVOD/5000000002000029972/bestzb/index.m3u8
 
