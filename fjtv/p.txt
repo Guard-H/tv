@@ -73,16 +73,16 @@ CHC动作电影,http://ndnas.top:3300/udp/225.1.4.208:1261
 CHC影迷电影,http://ndnas.top:3300/udp/225.1.4.207:1260
 1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 淘电影,http://223.166.248.92:1024/bptv/10000100000000050000000003887498.m3u8
-淘Baby,http://223.166.248.92:1024/bptv/10000100000000050000000003887499.m3u8
+淘Baby,http://223.166.248.92:1024/bptv/10000100000000050000000003887496.m3u8
 淘电影,http://mingjd.cn:7077/rtp/239.3.1.250:8001
 淘Baby,http://mingjd.cn:7077/rtp/239.3.1.238:8001
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-求索纪录,http://live.ximix.us/itv/6000000002000032052.m3u8?cdn=wasusyt
-五星体育,http://live.ximix.us/itv/5000000010000017540.m3u8?cdn=bestzb
-劲爆体育,http://live.ximix.us/itv/5000000002000029972.m3u8?cdn=bestzb
 求索纪录,http://113.109.249.29:8008/TVOD/6000000002000032052/wasusyt/index.m3u8
 五星体育,http://113.109.249.29:8008/TVOD/5000000010000017540/bestzb/index.m3u8
 劲爆体育,http://113.109.249.29:8008/TVOD/5000000002000029972/bestzb/index.m3u8
+求索纪录,http://live.ximix.us/itv/6000000002000032052.m3u8?cdn=wasusyt
+五星体育,http://live.ximix.us/itv/5000000010000017540.m3u8?cdn=bestzb
+劲爆体育,http://live.ximix.us/itv/5000000002000029972.m3u8?cdn=bestzb
 
 CCTV兵器科技,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.88:8000
 CCTV第一剧场,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.94:8000
