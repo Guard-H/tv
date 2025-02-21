@@ -158,6 +158,7 @@ MoMo综合,http://116.93.98.236:8080/sat/tv761.flv
 DAZN体育1,http://116.93.98.236:8080/sat/tv731.flv
 DAZN体育2,http://116.93.98.236:8080/sat/tv741.flv
 
+HOY₇₇,http://cdn.132.us.kg/live/hoy/stream.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
