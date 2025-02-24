@@ -78,6 +78,8 @@ CHC影迷电影,http://ndnas.top:3300/udp/225.1.4.207:1260
 淘Baby,http://123.120.5.146:4022/rtp/239.3.1.238:8001
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+劲爆体育,http://23.158.24.115:51021/TVOD/2000000002000000008/hnbblive/index.m3u8
+求索纪录,http://23.158.24.115:23954/jump?url=http%3A%2F%2F46.232.106.216%3A35455%2Fitv%2F6000000002000032052.m3u8%3Fcdn%3Dwasusyt
 
 CCTV兵器科技,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.88:8000#http://117.86.50.96:8888/rtp/239.49.8.88:8000
 CCTV第一剧场,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.94:8000
