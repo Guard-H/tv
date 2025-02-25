@@ -352,12 +352,9 @@ TVBJ₂,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 民视,rtmp://60.248.77.83/sat/tv051
 民视,rtmp://220.130.201.74/sat/tv051
 民视,twcdn.top  xiptv.top  fhv8.acc77.net  v2.gdvps.cn  ddi.acc77.net ddi.gdvps.cn
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 天映经典,http://120.84.121.163:808/hls/85/index.m3u8
-TVBS綜藝,http://192.168.3.1:8000/4gtv/284
-TVBS台劇,http://192.168.3.1:8000/4gtv/285
-ROCK Entertainment,http://192.168.3.1:8000/4gtv/275
-民視,http://192.168.3.1:8000/4gtv/3
-民視第一,http://192.168.3.1:8000/4gtv/1
+
 
 
 
