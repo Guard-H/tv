@@ -302,7 +302,6 @@ TVBS台剧,http://192.168.3.1:5678/4gtv.php?id=4gtv-live088&pid=285&re=1080.m3u8
 ELTA生活旅游,http://192.168.3.1:5678/4gtv.php?id=4gtv-live120&pid=237&re=1080.m3u8
 CNBC Asia财经,http://192.168.3.1:5678/4gtv.php?id=4gtv-live130&pid=235&re=1080.m3u8
 时尚运动X,http://192.168.3.1:5678/4gtv.php?id=4gtv-live411&pid=277&re=1080.m3u8
-影迷数位纪实,http://192.168.3.1:5678/4gtv.php?id=4gtv-live023&pid=212&re=1080.m3u8
 我的欧洲电影,http://192.168.3.1:5678/4gtv.php?id=4gtv-live157&pid=176&re=1080.m3u8
 CinemaWorld,http://192.168.3.1:5678/4gtv.php?id=4gtv-live069&pid=225&re=1080.m3u8
 HITS,http://192.168.3.1:5678/4gtv.php?id=4gtv-live620&pid=186&re=1080.m3u8
